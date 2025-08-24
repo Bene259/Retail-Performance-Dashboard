@@ -1,0 +1,3001 @@
+Customer_ID,Full_Name,Email,Signup_Channel
+C0001,Jared Castaneda,j.castaneda81@email.com,In store
+C0002,Christopher Sandoval,c.sandoval88@email.com,In store
+C0003,Bradley Anderson,b.anderson59@email.com,App
+C0004,Jason Strickland,j.strickland81@email.com,Online
+C0005,Michael Taylor,m.taylor42@email.com,Online
+C0006,Melissa Wilson,m.wilson38@email.com,Online
+C0007,Adrian Brennan,a.brennan76@email.com,App
+C0008,Steven Vasquez,s.vasquez12@email.com,Online
+C0009,Jose Johnson,j.johnson49@email.com,App
+C0010,Stefanie Perkins,s.perkins85@email.com,In store
+C0011,Cole Beltran,c.beltran14@email.com,App
+C0012,Nicole Reyes,n.reyes13@email.com,App
+C0013,Ian Salinas,i.salinas97@email.com,In store
+C0014,Larry Atkinson,l.atkinson70@email.com,App
+C0015,Deborah Jefferson,d.jefferson66@email.com,App
+C0016,Denise Graham,d.graham51@email.com,App
+C0017,Tommy Martinez,t.martinez65@email.com,App
+C0018,Megan Pope,m.pope47@email.com,App
+C0019,Jason Mora,j.mora16@email.com,Online
+C0020,Zachary Henry,z.henry86@email.com,In store
+C0021,Samantha Hubbard,s.hubbard66@email.com,In store
+C0022,Justin Garcia,j.garcia46@email.com,Online
+C0023,Michael Robinson,m.robinson19@email.com,App
+C0024,Kimberly Rivera,k.rivera66@email.com,Online
+C0025,Jennifer Wiley,j.wiley68@email.com,App
+C0026,Sandy Holland,s.holland66@email.com,In store
+C0027,Brian Horn,b.horn76@email.com,Online
+C0028,Tina Vaughn,t.vaughn28@email.com,In store
+C0029,Gary Mcdonald,g.mcdonald17@email.com,Online
+C0030,Kathryn Whitney,k.whitney28@email.com,In store
+C0031,Julie Watson,j.watson78@email.com,Online
+C0032,Elizabeth Newman,e.newman64@email.com,Online
+C0033,Ethan Foster,e.foster36@email.com,App
+C0034,Blake Alvarado,b.alvarado51@email.com,Online
+C0035,Matthew Williams,m.williams97@email.com,App
+C0036,Michael Allen,m.allen31@email.com,App
+C0037,Sharon Mccoy,s.mccoy50@email.com,App
+C0038,Steven Richardson,s.richardson42@email.com,In store
+C0039,William Miller,w.miller91@email.com,Online
+C0040,Emily Robles,e.robles88@email.com,Online
+C0041,Shawn Vargas,s.vargas72@email.com,Online
+C0042,Martha Wallace,m.wallace27@email.com,In store
+C0043,Marco Espinoza,m.espinoza92@email.com,Online
+C0044,Melissa Simmons,m.simmons98@email.com,Online
+C0045,Anthony Murray,a.murray48@email.com,In store
+C0046,Rachael Alvarado,r.alvarado25@email.com,App
+C0047,Joseph Murillo,j.murillo58@email.com,App
+C0048,Kathleen Terry,k.terry51@email.com,App
+C0049,Nicholas Flores,n.flores38@email.com,Online
+C0050,Teresa Gill,t.gill23@email.com,App
+C0051,Danny Sloan,d.sloan27@email.com,In store
+C0052,Todd Ochoa,t.ochoa15@email.com,In store
+C0053,Angela Rodriguez,a.rodriguez39@email.com,App
+C0054,Katherine Hernandez,k.hernandez43@email.com,App
+C0055,Megan Coleman,m.coleman67@email.com,App
+C0056,Joseph Allen,j.allen62@email.com,Online
+C0057,Jasmine Evans,j.evans74@email.com,In store
+C0058,Kathryn Martin,k.martin40@email.com,In store
+C0059,Marissa Smith,m.smith36@email.com,In store
+C0060,Mark Howe,m.howe18@email.com,Online
+C0061,Lori Mcguire,l.mcguire15@email.com,App
+C0062,Alexander Simon,a.simon22@email.com,In store
+C0063,Stacey Harris,s.harris19@email.com,App
+C0064,Tiffany Garrett,t.garrett58@email.com,App
+C0065,Natalie Thomas,n.thomas27@email.com,App
+C0066,Kristen Coleman,k.coleman19@email.com,In store
+C0067,Christina Olson,c.olson62@email.com,Online
+C0068,Erin Wright,e.wright34@email.com,Online
+C0069,Michele Stewart,m.stewart20@email.com,In store
+C0070,Martin Murray,m.murray78@email.com,Online
+C0071,Judy Daniels,j.daniels55@email.com,In store
+C0072,Regina Flores,r.flores64@email.com,App
+C0073,Mikayla Ward,m.ward79@email.com,Online
+C0074,Sean Evans,s.evans60@email.com,In store
+C0075,Ashley Davis,a.davis32@email.com,Online
+C0076,George Ballard,g.ballard55@email.com,In store
+C0077,Mary French,m.french53@email.com,In store
+C0078,William Mcdonald,w.mcdonald80@email.com,In store
+C0079,Danielle Novak,d.novak82@email.com,Online
+C0080,Madison Price,m.price39@email.com,In store
+C0081,Tammy Evans,t.evans39@email.com,In store
+C0082,Ashley Haney,a.haney63@email.com,In store
+C0083,Holly Dennis,h.dennis98@email.com,App
+C0084,Timothy Garcia,t.garcia32@email.com,App
+C0085,David Chambers,d.chambers63@email.com,App
+C0086,Kevin Green,k.green58@email.com,Online
+C0087,Travis Anderson,t.anderson71@email.com,Online
+C0088,John Cruz,j.cruz44@email.com,App
+C0089,Jaclyn Young,j.young97@email.com,App
+C0090,Laura Johnson,l.johnson14@email.com,Online
+C0091,Brandi Rhodes,b.rhodes26@email.com,In store
+C0092,Robert Alvarez,r.alvarez12@email.com,App
+C0093,Amanda Dennis,a.dennis90@email.com,In store
+C0094,Brian Johnson,b.johnson30@email.com,In store
+C0095,James Andrews,j.andrews60@email.com,Online
+C0096,Deborah Wolf,d.wolf20@email.com,In store
+C0097,David Sawyer,d.sawyer39@email.com,Online
+C0098,Erin Ramsey,e.ramsey52@email.com,Online
+C0099,Eileen Mejia,e.mejia45@email.com,Online
+C0100,Allen Sellers,a.sellers66@email.com,Online
+C0101,Christina Vargas,c.vargas35@email.com,App
+C0102,Paul Torres,p.torres91@email.com,In store
+C0103,Martin Adams,m.adams69@email.com,Online
+C0104,David Thompson,d.thompson31@email.com,App
+C0105,Melissa Knight,m.knight69@email.com,In store
+C0106,Angela Morris,a.morris89@email.com,App
+C0107,Garrett Bishop,g.bishop70@email.com,In store
+C0108,Mark Mendoza,m.mendoza37@email.com,App
+C0109,Kenneth Martinez,k.martinez62@email.com,In store
+C0110,Anthony Brady,a.brady87@email.com,App
+C0111,Richard Mendez,r.mendez81@email.com,In store
+C0112,Sherry Wang,s.wang90@email.com,In store
+C0113,Molly Roberts,m.roberts68@email.com,In store
+C0114,Michael Mccarthy,m.mccarthy63@email.com,App
+C0115,Tamara Morales,t.morales36@email.com,In store
+C0116,Elizabeth Olsen,e.olsen49@email.com,App
+C0117,Jaclyn Ortiz,j.ortiz41@email.com,Online
+C0118,Julie Bentley,j.bentley67@email.com,App
+C0119,Misty Marquez,m.marquez61@email.com,In store
+C0120,Robert Baker,r.baker89@email.com,Online
+C0121,Wayne James,w.james15@email.com,Online
+C0122,Carolyn Reynolds,c.reynolds90@email.com,App
+C0123,Brett Hansen,b.hansen48@email.com,Online
+C0124,Andrew Hamilton,a.hamilton16@email.com,Online
+C0125,Austin Cook,a.cook85@email.com,Online
+C0126,Valerie Hayes,v.hayes62@email.com,In store
+C0127,Joseph Middleton,j.middleton38@email.com,In store
+C0128,John Ray,j.ray94@email.com,App
+C0129,Steven Taylor,s.taylor94@email.com,In store
+C0130,Kelly Alvarado,k.alvarado68@email.com,In store
+C0131,Adam Sanchez,a.sanchez54@email.com,Online
+C0132,Kyle Marshall,k.marshall32@email.com,App
+C0133,Katherine Martinez,k.martinez84@email.com,In store
+C0134,Richard Boyle,r.boyle62@email.com,In store
+C0135,David Roach,d.roach66@email.com,Online
+C0136,Alexander Ruiz,a.ruiz20@email.com,Online
+C0137,Donna Cole,d.cole39@email.com,In store
+C0138,Janet Brown,j.brown16@email.com,App
+C0139,Mary Carlson,m.carlson57@email.com,Online
+C0140,Connie Rivera,c.rivera52@email.com,Online
+C0141,Kendra Thompson,k.thompson88@email.com,Online
+C0142,Joel Woods,j.woods10@email.com,App
+C0143,Carolyn Bryan,c.bryan53@email.com,In store
+C0144,Joseph Hunt,j.hunt35@email.com,App
+C0145,Diana Dawson,d.dawson39@email.com,In store
+C0146,Joshua Henderson,j.henderson72@email.com,App
+C0147,Pamela Price,p.price72@email.com,App
+C0148,Lori Jones,l.jones66@email.com,In store
+C0149,George Nicholson,g.nicholson29@email.com,Online
+C0150,Alexander Stephens,a.stephens98@email.com,Online
+C0151,Elizabeth Smith,e.smith45@email.com,In store
+C0152,Patty Gardner,p.gardner46@email.com,Online
+C0153,Christopher Green,c.green36@email.com,App
+C0154,Seth Jordan,s.jordan92@email.com,Online
+C0155,Susan Martinez,s.martinez63@email.com,In store
+C0156,Laura Chavez,l.chavez43@email.com,App
+C0157,Vincent Howell,v.howell60@email.com,App
+C0158,Erin West,e.west62@email.com,Online
+C0159,Sheryl Jones,s.jones71@email.com,App
+C0160,Christopher Chambers,c.chambers98@email.com,In store
+C0161,Jessica Martinez,j.martinez62@email.com,In store
+C0162,Miranda Tanner,m.tanner28@email.com,App
+C0163,Jessica Horton,j.horton65@email.com,In store
+C0164,Paul Johnson,p.johnson34@email.com,Online
+C0165,Dana Oneill,d.oneill56@email.com,In store
+C0166,Angela Ortiz,a.ortiz60@email.com,Online
+C0167,Jessica Pollard,j.pollard16@email.com,App
+C0168,Robert Holland,r.holland57@email.com,App
+C0169,Joseph Larson,j.larson64@email.com,App
+C0170,Kevin Medina,k.medina15@email.com,App
+C0171,Dana Henry,d.henry41@email.com,Online
+C0172,Brandy Martin,b.martin15@email.com,App
+C0173,Troy Craig,t.craig27@email.com,App
+C0174,Carlos Mason,c.mason61@email.com,App
+C0175,Jacob Johnston,j.johnston71@email.com,In store
+C0176,Reginald Robinson,r.robinson61@email.com,In store
+C0177,Paul Martinez,p.martinez62@email.com,In store
+C0178,Alyssa Woodard,a.woodard40@email.com,In store
+C0179,Daniel Mack,d.mack30@email.com,In store
+C0180,Adriana Lee,a.lee48@email.com,In store
+C0181,Shawn Johnson,s.johnson50@email.com,In store
+C0182,Michele Smith,m.smith83@email.com,In store
+C0183,Meghan Arnold,m.arnold62@email.com,In store
+C0184,Melissa Martinez,m.martinez47@email.com,App
+C0185,Brandon Haney,b.haney88@email.com,In store
+C0186,Chase Acosta,c.acosta83@email.com,App
+C0187,Robin Diaz,r.diaz44@email.com,Online
+C0188,Laura Patton,l.patton25@email.com,Online
+C0189,Jose Wagner,j.wagner14@email.com,In store
+C0190,Angela Taylor,a.taylor67@email.com,In store
+C0191,Cynthia Johnson,c.johnson20@email.com,Online
+C0192,Desiree Reed,d.reed80@email.com,In store
+C0193,Jessica Taylor,j.taylor17@email.com,In store
+C0194,Larry Gibson,l.gibson23@email.com,In store
+C0195,Tony Reyes,t.reyes42@email.com,App
+C0196,Dalton Arnold,d.arnold47@email.com,App
+C0197,Cody Green,c.green59@email.com,App
+C0198,Michael Reeves,m.reeves98@email.com,In store
+C0199,Michael Davis,m.davis90@email.com,In store
+C0200,Kevin Hayes,k.hayes11@email.com,App
+C0201,Brittany Manning,b.manning83@email.com,Online
+C0202,William Bell,w.bell21@email.com,In store
+C0203,Paul French,p.french87@email.com,App
+C0204,Lauren Harris,l.harris19@email.com,App
+C0205,Tyler Hoffman,t.hoffman49@email.com,In store
+C0206,Drew Bush,d.bush69@email.com,Online
+C0207,Angelica Conley,a.conley40@email.com,In store
+C0208,Rachel Berry,r.berry82@email.com,Online
+C0209,Gregory Jordan,g.jordan52@email.com,In store
+C0210,Roberta Gutierrez,r.gutierrez80@email.com,Online
+C0211,Kevin Mathis,k.mathis17@email.com,Online
+C0212,Jacob Duffy,j.duffy26@email.com,In store
+C0213,Roberto Carter,r.carter91@email.com,In store
+C0214,Debra Jimenez,d.jimenez24@email.com,In store
+C0215,Corey Werner,c.werner66@email.com,In store
+C0216,Megan Smith,m.smith34@email.com,Online
+C0217,Carlos Ward,c.ward36@email.com,App
+C0218,Danielle Smith,d.smith37@email.com,Online
+C0219,Laura Ramos,l.ramos50@email.com,App
+C0220,Levi Flores,l.flores87@email.com,In store
+C0221,Anna Thompson,a.thompson89@email.com,In store
+C0222,Samantha Hughes,s.hughes14@email.com,App
+C0223,Kevin Boyle,k.boyle95@email.com,App
+C0224,Jerry Rivera,j.rivera49@email.com,Online
+C0225,David Olson,d.olson79@email.com,App
+C0226,Sandy Weaver,s.weaver79@email.com,Online
+C0227,Robert Hall,r.hall29@email.com,Online
+C0228,Carla Mitchell,c.mitchell13@email.com,In store
+C0229,Bryan Sanders,b.sanders22@email.com,In store
+C0230,Shane Hicks,s.hicks85@email.com,In store
+C0231,Crystal Garrett,c.garrett68@email.com,App
+C0232,Jodi Jackson,j.jackson20@email.com,In store
+C0233,Michael Moore,m.moore44@email.com,In store
+C0234,Rebecca Stewart,r.stewart33@email.com,In store
+C0235,Aaron Gonzalez,a.gonzalez79@email.com,Online
+C0236,David Walton,d.walton15@email.com,Online
+C0237,Taylor Maxwell,t.maxwell51@email.com,App
+C0238,Robert Alvarez,r.alvarez23@email.com,In store
+C0239,Kevin Stone,k.stone93@email.com,Online
+C0240,Bill White,b.white33@email.com,Online
+C0241,Danny Morris,d.morris72@email.com,App
+C0242,Jessica Warner,j.warner10@email.com,App
+C0243,Mark Fields,m.fields63@email.com,Online
+C0244,William Brown,w.brown61@email.com,Online
+C0245,Jerome Silva,j.silva45@email.com,App
+C0246,Kathryn Bowman,k.bowman33@email.com,Online
+C0247,Steven Hudson,s.hudson41@email.com,App
+C0248,Angela Price,a.price55@email.com,In store
+C0249,Carlos Park,c.park23@email.com,In store
+C0250,Tammy Tate,t.tate25@email.com,App
+C0251,Brittany Bishop,b.bishop21@email.com,In store
+C0252,Zachary Cook,z.cook12@email.com,App
+C0253,Abigail Davis,a.davis62@email.com,App
+C0254,Kayla Rivera,k.rivera14@email.com,App
+C0255,Daniel Davis,d.davis36@email.com,App
+C0256,Krista Bennett,k.bennett61@email.com,App
+C0257,John Castro,j.castro89@email.com,Online
+C0258,Melanie Munoz,m.munoz77@email.com,Online
+C0259,Robert Rice,r.rice24@email.com,App
+C0260,Gavin Burns,g.burns35@email.com,App
+C0261,Rebecca Acosta,r.acosta54@email.com,Online
+C0262,Alicia Cherry,a.cherry35@email.com,In store
+C0263,Richard Fletcher,r.fletcher41@email.com,In store
+C0264,Roger Young,r.young54@email.com,App
+C0265,Brian Schultz,b.schultz21@email.com,App
+C0266,Susan Todd,s.todd68@email.com,Online
+C0267,Natalie Figueroa,n.figueroa79@email.com,In store
+C0268,Randall Peterson,r.peterson91@email.com,App
+C0269,John Vaughan,j.vaughan12@email.com,In store
+C0270,Adam Johnson,a.johnson68@email.com,In store
+C0271,Leslie Allen,l.allen45@email.com,Online
+C0272,Patricia Arellano,p.arellano12@email.com,App
+C0273,Megan Gibson,m.gibson12@email.com,Online
+C0274,Zachary Davis,z.davis68@email.com,Online
+C0275,Bradley Powell,b.powell37@email.com,In store
+C0276,Kevin Ferrell,k.ferrell35@email.com,In store
+C0277,Alexander Turner,a.turner19@email.com,App
+C0278,Olivia White,o.white72@email.com,In store
+C0279,Marcus Jones,m.jones71@email.com,Online
+C0280,Mary Cooper,m.cooper62@email.com,Online
+C0281,Steven Bryant,s.bryant95@email.com,In store
+C0282,Whitney Trujillo,w.trujillo58@email.com,In store
+C0283,Sean Allen,s.allen35@email.com,In store
+C0284,Stephanie Howard,s.howard82@email.com,In store
+C0285,Mary Garza,m.garza16@email.com,App
+C0286,Samuel Estrada,s.estrada81@email.com,Online
+C0287,Leslie Martinez,l.martinez28@email.com,In store
+C0288,Michael Smith,m.smith73@email.com,App
+C0289,Kelsey Gonzales,k.gonzales53@email.com,In store
+C0290,Danielle Horne,d.horne26@email.com,App
+C0291,Shannon Werner,s.werner34@email.com,App
+C0292,Eric Bell,e.bell48@email.com,App
+C0293,Lori Flynn,l.flynn68@email.com,Online
+C0294,Lisa Wallace,l.wallace75@email.com,In store
+C0295,Andrea Oconnor,a.oconnor87@email.com,In store
+C0296,Bethany Reed,b.reed75@email.com,Online
+C0297,Donna Arnold,d.arnold19@email.com,Online
+C0298,Jennifer Rodriguez,j.rodriguez22@email.com,Online
+C0299,William Sanchez,w.sanchez11@email.com,Online
+C0300,Gloria Swanson,g.swanson23@email.com,In store
+C0301,Kelsey Rodriguez,k.rodriguez60@email.com,In store
+C0302,Richard Hunter,r.hunter47@email.com,Online
+C0303,Chad Conner,c.conner38@email.com,App
+C0304,Stacy Harper,s.harper73@email.com,App
+C0305,Joseph Russell,j.russell32@email.com,App
+C0306,Autumn Ware,a.ware74@email.com,App
+C0307,Adam Parker,a.parker54@email.com,In store
+C0308,Paul Adams,p.adams10@email.com,In store
+C0309,Sara Fox,s.fox96@email.com,In store
+C0310,Glen Randolph,g.randolph97@email.com,Online
+C0311,Scott Floyd,s.floyd75@email.com,In store
+C0312,Janice Sims,j.sims96@email.com,Online
+C0313,Wendy Massey,w.massey13@email.com,App
+C0314,Linda Woods,l.woods50@email.com,Online
+C0315,Barbara Bowers,b.bowers96@email.com,In store
+C0316,Anna Solis,a.solis50@email.com,Online
+C0317,Stephanie Perry,s.perry24@email.com,Online
+C0318,Anthony Contreras,a.contreras19@email.com,Online
+C0319,Shannon Alexander,s.alexander38@email.com,App
+C0320,Michelle Kelly,m.kelly72@email.com,App
+C0321,David Finley,d.finley27@email.com,App
+C0322,Jennifer Mcgrath,j.mcgrath36@email.com,In store
+C0323,Eric Jones,e.jones29@email.com,In store
+C0324,Adam Gonzales,a.gonzales94@email.com,Online
+C0325,Dale Rogers,d.rogers70@email.com,App
+C0326,Alyssa Tanner,a.tanner83@email.com,In store
+C0327,Christopher Martin,c.martin30@email.com,In store
+C0328,Casey Ballard,c.ballard90@email.com,Online
+C0329,Michelle Thompson,m.thompson37@email.com,Online
+C0330,Shane Graham,s.graham69@email.com,Online
+C0331,Jennifer Huerta,j.huerta67@email.com,Online
+C0332,Emily Fernandez,e.fernandez90@email.com,In store
+C0333,Andrew Smith,a.smith19@email.com,Online
+C0334,William Davis,w.davis34@email.com,Online
+C0335,James Clayton,j.clayton10@email.com,Online
+C0336,Tammie Meyers,t.meyers85@email.com,In store
+C0337,Kathy Powers,k.powers22@email.com,App
+C0338,James Hernandez,j.hernandez10@email.com,App
+C0339,Mary Cooper,m.cooper97@email.com,App
+C0340,Jennifer Morton,j.morton65@email.com,App
+C0341,David Hall,d.hall13@email.com,In store
+C0342,Michael Nash,m.nash37@email.com,Online
+C0343,Jenna Blankenship,j.blankenship45@email.com,In store
+C0344,Jennifer Mcguire,j.mcguire68@email.com,App
+C0345,Caitlin Huber,c.huber84@email.com,App
+C0346,Emily Lopez,e.lopez62@email.com,Online
+C0347,Sara Spence,s.spence93@email.com,In store
+C0348,Stephen Schwartz,s.schwartz26@email.com,Online
+C0349,Robert Price,r.price22@email.com,In store
+C0350,Cynthia Grimes,c.grimes60@email.com,App
+C0351,Joan Jones,j.jones13@email.com,Online
+C0352,Clayton Coleman,c.coleman18@email.com,App
+C0353,Jasmine Garcia,j.garcia91@email.com,In store
+C0354,Gina Hayes,g.hayes83@email.com,In store
+C0355,Lori Wood,l.wood38@email.com,App
+C0356,Christopher Hernandez,c.hernandez14@email.com,App
+C0357,Michelle Acevedo,m.acevedo79@email.com,App
+C0358,Timothy Carey,t.carey44@email.com,In store
+C0359,Kristen Norris,k.norris59@email.com,App
+C0360,Kimberly Hall,k.hall33@email.com,In store
+C0361,Shelley Mcguire,s.mcguire11@email.com,App
+C0362,Lauren Bush,l.bush54@email.com,Online
+C0363,Michael Taylor,m.taylor19@email.com,In store
+C0364,Patricia Anderson,p.anderson46@email.com,App
+C0365,Mary Mathews,m.mathews54@email.com,In store
+C0366,Isaiah Tran,i.tran74@email.com,Online
+C0367,Albert Peterson,a.peterson70@email.com,Online
+C0368,Justin Chen,j.chen15@email.com,In store
+C0369,Lauren Estrada,l.estrada27@email.com,App
+C0370,Diane Orozco,d.orozco49@email.com,Online
+C0371,Rachel Smith,r.smith54@email.com,In store
+C0372,Dennis Fernandez,d.fernandez22@email.com,Online
+C0373,Eric Hudson,e.hudson40@email.com,App
+C0374,Richard Santana,r.santana59@email.com,App
+C0375,Joseph Cook,j.cook93@email.com,App
+C0376,Stephen Stewart,s.stewart54@email.com,App
+C0377,Joshua Pierce,j.pierce88@email.com,Online
+C0378,Eric Abbott,e.abbott20@email.com,Online
+C0379,Michael Jacobs,m.jacobs22@email.com,Online
+C0380,Christina Johnson,c.johnson43@email.com,In store
+C0381,Daryl Wood,d.wood84@email.com,Online
+C0382,Alexis Mcfarland,a.mcfarland85@email.com,Online
+C0383,Lauren Johnson,l.johnson98@email.com,Online
+C0384,Jamie Powers,j.powers30@email.com,In store
+C0385,Latoya Boyd,l.boyd70@email.com,Online
+C0386,Jacob Woods,j.woods47@email.com,App
+C0387,Michael Thomas,m.thomas98@email.com,Online
+C0388,Kimberly Cruz,k.cruz71@email.com,App
+C0389,Corey Tate,c.tate11@email.com,Online
+C0390,David Hunt,d.hunt66@email.com,App
+C0391,Todd Austin,t.austin12@email.com,App
+C0392,John Morales,j.morales13@email.com,Online
+C0393,Cory Hughes,c.hughes79@email.com,Online
+C0394,Ann Williams,a.williams50@email.com,In store
+C0395,Timothy Fox,t.fox16@email.com,In store
+C0396,Julie Cortez,j.cortez10@email.com,Online
+C0397,Adam Eaton,a.eaton61@email.com,Online
+C0398,Jennifer Barnett,j.barnett69@email.com,Online
+C0399,Katherine Andrews,k.andrews77@email.com,Online
+C0400,Jorge Riley,j.riley57@email.com,App
+C0401,Brian Miller,b.miller54@email.com,App
+C0402,Robert Barnes,r.barnes79@email.com,In store
+C0403,Justin Olson,j.olson30@email.com,Online
+C0404,Daniel Morgan,d.morgan84@email.com,Online
+C0405,Martin Hayes,m.hayes45@email.com,App
+C0406,Jason Reed,j.reed32@email.com,App
+C0407,William Martinez,w.martinez36@email.com,Online
+C0408,Ashley White,a.white29@email.com,App
+C0409,Rachel Perez,r.perez51@email.com,In store
+C0410,Michael Owens,m.owens64@email.com,App
+C0411,Steve Shaw,s.shaw58@email.com,App
+C0412,Nicholas Phillips,n.phillips84@email.com,Online
+C0413,Stephen Griffin,s.griffin42@email.com,Online
+C0414,Jasmine Larson,j.larson46@email.com,In store
+C0415,Carla Horton,c.horton16@email.com,App
+C0416,Christine Webb,c.webb20@email.com,App
+C0417,Jennifer Proctor,j.proctor87@email.com,Online
+C0418,Monique Adkins,m.adkins74@email.com,Online
+C0419,Kayla Sandoval,k.sandoval40@email.com,App
+C0420,Stephanie Robinson,s.robinson21@email.com,In store
+C0421,Anthony May,a.may61@email.com,Online
+C0422,Sergio Martin,s.martin39@email.com,App
+C0423,Steven Daniels,s.daniels86@email.com,Online
+C0424,Adrienne Rogers,a.rogers85@email.com,Online
+C0425,Martha Hickman,m.hickman83@email.com,App
+C0426,Dustin Serrano,d.serrano48@email.com,Online
+C0427,Dustin Hodges,d.hodges91@email.com,Online
+C0428,Marie Elliott,m.elliott65@email.com,App
+C0429,Courtney Ellison,c.ellison25@email.com,Online
+C0430,Carol Marshall,c.marshall73@email.com,In store
+C0431,David Porter,d.porter20@email.com,App
+C0432,Michael Murray,m.murray13@email.com,App
+C0433,Alison Davidson,a.davidson24@email.com,App
+C0434,Meghan Wilson,m.wilson90@email.com,In store
+C0435,Catherine Cobb,c.cobb34@email.com,In store
+C0436,Sarah Baker,s.baker75@email.com,App
+C0437,Joshua Rivera,j.rivera54@email.com,In store
+C0438,Brittany Snow,b.snow31@email.com,Online
+C0439,Melinda Jacobs,m.jacobs85@email.com,App
+C0440,Stephanie Moore,s.moore20@email.com,Online
+C0441,Eric Fernandez,e.fernandez87@email.com,Online
+C0442,Beth Pineda,b.pineda31@email.com,In store
+C0443,Nathan Vaughan,n.vaughan88@email.com,App
+C0444,Darius Salazar,d.salazar66@email.com,App
+C0445,Tricia Martinez,t.martinez40@email.com,Online
+C0446,Ann Ochoa,a.ochoa21@email.com,Online
+C0447,Michael Allen,m.allen54@email.com,In store
+C0448,Joseph Taylor,j.taylor10@email.com,Online
+C0449,Kristie Johnson,k.johnson16@email.com,Online
+C0450,Mary Sanchez,m.sanchez95@email.com,In store
+C0451,Brandon Hunter,b.hunter55@email.com,App
+C0452,Lindsey Watson,l.watson18@email.com,Online
+C0453,Justin Ryan,j.ryan66@email.com,App
+C0454,Peter Smith,p.smith61@email.com,In store
+C0455,Lori Brown,l.brown92@email.com,Online
+C0456,Anthony Martinez,a.martinez53@email.com,App
+C0457,Kathryn Johnson,k.johnson15@email.com,In store
+C0458,Sean Bryant,s.bryant55@email.com,App
+C0459,Holly Smith,h.smith54@email.com,In store
+C0460,Brandon Delgado,b.delgado37@email.com,Online
+C0461,John Rojas,j.rojas41@email.com,In store
+C0462,Kimberly Delgado,k.delgado62@email.com,App
+C0463,Katherine Powell,k.powell39@email.com,In store
+C0464,Mary Small,m.small40@email.com,In store
+C0465,Ashley Lewis,a.lewis76@email.com,In store
+C0466,Sarah Williams,s.williams37@email.com,Online
+C0467,James Green,j.green95@email.com,Online
+C0468,Anna Romero,a.romero92@email.com,In store
+C0469,Jessica Romero,j.romero19@email.com,In store
+C0470,Ryan Johnson,r.johnson61@email.com,Online
+C0471,William Gray,w.gray10@email.com,In store
+C0472,Brad Riley,b.riley77@email.com,In store
+C0473,Jason Garrison,j.garrison87@email.com,App
+C0474,Kelli Hayes,k.hayes33@email.com,App
+C0475,Jason Stevens,j.stevens36@email.com,In store
+C0476,Stacy Kim,s.kim48@email.com,In store
+C0477,Jared Smith,j.smith93@email.com,Online
+C0478,David Miller,d.miller45@email.com,In store
+C0479,Rebecca Cortez,r.cortez14@email.com,In store
+C0480,Paul Lowe,p.lowe19@email.com,In store
+C0481,John Williams,j.williams62@email.com,Online
+C0482,James Gibson,j.gibson83@email.com,In store
+C0483,Susan Bridges,s.bridges37@email.com,Online
+C0484,Scott Mcknight,s.mcknight26@email.com,In store
+C0485,Jessica Bass,j.bass75@email.com,Online
+C0486,Erica Long,e.long55@email.com,In store
+C0487,Andrew Clay,a.clay18@email.com,In store
+C0488,John Moses,j.moses88@email.com,In store
+C0489,Joshua Briggs,j.briggs98@email.com,Online
+C0490,Deborah Reed,d.reed37@email.com,App
+C0491,Jesse Hunter,j.hunter56@email.com,In store
+C0492,Brian James,b.james47@email.com,App
+C0493,Tasha Acevedo,t.acevedo45@email.com,App
+C0494,Christopher Mathews,c.mathews40@email.com,Online
+C0495,Billy Diaz,b.diaz58@email.com,In store
+C0496,Michael Mcgrath,m.mcgrath17@email.com,Online
+C0497,Vanessa Nguyen,v.nguyen23@email.com,In store
+C0498,Brian Wilson,b.wilson55@email.com,App
+C0499,Craig Clark,c.clark25@email.com,Online
+C0500,Anthony Whitehead,a.whitehead77@email.com,Online
+C0501,Alexis Stanley,a.stanley77@email.com,Online
+C0502,Lawrence Mercado,l.mercado84@email.com,App
+C0503,Shawn Cox,s.cox84@email.com,App
+C0504,Carl Meyer,c.meyer96@email.com,Online
+C0505,Christian King,c.king69@email.com,Online
+C0506,Natasha Murray,n.murray10@email.com,In store
+C0507,Rhonda Miller,r.miller46@email.com,App
+C0508,Brandon Reyes,b.reyes58@email.com,In store
+C0509,Erin Webster,e.webster91@email.com,Online
+C0510,Richard Garcia,r.garcia73@email.com,In store
+C0511,Karen Perry,k.perry80@email.com,App
+C0512,Allison Gonzalez,a.gonzalez60@email.com,App
+C0513,Cynthia Harvey,c.harvey18@email.com,App
+C0514,David Murphy,d.murphy94@email.com,In store
+C0515,Shane Hunt,s.hunt51@email.com,In store
+C0516,Jamie Chase,j.chase79@email.com,In store
+C0517,Megan Allen,m.allen44@email.com,In store
+C0518,Scott Hunter,s.hunter53@email.com,App
+C0519,Austin Ross,a.ross52@email.com,In store
+C0520,Terrence Larsen,t.larsen85@email.com,App
+C0521,John Green,j.green53@email.com,Online
+C0522,Jennifer Day,j.day47@email.com,In store
+C0523,Jeremy Stevenson,j.stevenson34@email.com,In store
+C0524,Bradley Delgado,b.delgado69@email.com,Online
+C0525,Teresa Mills,t.mills74@email.com,Online
+C0526,Ashley Smith,a.smith12@email.com,In store
+C0527,Mackenzie Roberts,m.roberts23@email.com,In store
+C0528,Becky James,b.james43@email.com,Online
+C0529,Michele Dalton,m.dalton45@email.com,App
+C0530,Wayne Burke,w.burke46@email.com,Online
+C0531,Raven Salazar,r.salazar18@email.com,Online
+C0532,Judy Smith,j.smith44@email.com,Online
+C0533,Sara Lopez,s.lopez90@email.com,App
+C0534,Gabrielle Mendez,g.mendez27@email.com,In store
+C0535,Tammy Carroll,t.carroll34@email.com,App
+C0536,Paul Hanna,p.hanna89@email.com,App
+C0537,William Lewis,w.lewis98@email.com,App
+C0538,Kevin Lin,k.lin25@email.com,App
+C0539,Heather Schneider,h.schneider97@email.com,In store
+C0540,James Perez,j.perez21@email.com,App
+C0541,Angela Wall,a.wall68@email.com,In store
+C0542,David Smith,d.smith46@email.com,In store
+C0543,Holly Golden,h.golden92@email.com,Online
+C0544,Isaac Savage,i.savage54@email.com,Online
+C0545,Vincent Brown,v.brown92@email.com,Online
+C0546,Steven Kennedy,s.kennedy21@email.com,Online
+C0547,Jennifer Stewart,j.stewart14@email.com,Online
+C0548,Megan Moss,m.moss29@email.com,In store
+C0549,Joseph Barrett,j.barrett17@email.com,Online
+C0550,Patricia Snyder,p.snyder63@email.com,Online
+C0551,Rachel Cruz,r.cruz75@email.com,In store
+C0552,Ryan King,r.king74@email.com,In store
+C0553,Brian Schmidt,b.schmidt40@email.com,App
+C0554,Heather Edwards,h.edwards30@email.com,In store
+C0555,Daniel Jones,d.jones84@email.com,Online
+C0556,Jasmine Rivera,j.rivera18@email.com,Online
+C0557,Todd Blevins,t.blevins36@email.com,In store
+C0558,Timothy Gray,t.gray71@email.com,Online
+C0559,Jesse Jackson,j.jackson98@email.com,Online
+C0560,Kevin Frank,k.frank81@email.com,Online
+C0561,Elizabeth Mcdaniel,e.mcdaniel95@email.com,In store
+C0562,Nicholas Martinez,n.martinez35@email.com,In store
+C0563,Meagan Myers,m.myers78@email.com,Online
+C0564,Heather Dunlap,h.dunlap87@email.com,App
+C0565,Leslie Moore,l.moore72@email.com,App
+C0566,Joel Williams,j.williams79@email.com,App
+C0567,Morgan Atkinson,m.atkinson26@email.com,In store
+C0568,Nicholas Moore,n.moore61@email.com,Online
+C0569,Joanna Ballard,j.ballard33@email.com,App
+C0570,Jim Sullivan,j.sullivan56@email.com,In store
+C0571,Emily Serrano,e.serrano60@email.com,Online
+C0572,Patricia Rosario,p.rosario30@email.com,In store
+C0573,Kimberly Hammond,k.hammond78@email.com,App
+C0574,James Bailey,j.bailey53@email.com,App
+C0575,Joe Wright,j.wright92@email.com,In store
+C0576,Chris Frazier,c.frazier89@email.com,App
+C0577,Debra Carr,d.carr90@email.com,In store
+C0578,Vincent Robertson,v.robertson61@email.com,App
+C0579,Kayla Williams,k.williams32@email.com,In store
+C0580,Cindy Silva,c.silva25@email.com,Online
+C0581,Michael Moreno,m.moreno67@email.com,Online
+C0582,Lisa Brown,l.brown87@email.com,App
+C0583,Derrick Bishop,d.bishop63@email.com,Online
+C0584,Patrick Larsen,p.larsen94@email.com,In store
+C0585,William Lopez,w.lopez13@email.com,Online
+C0586,Jennifer Berger,j.berger43@email.com,Online
+C0587,Craig Lawrence,c.lawrence53@email.com,Online
+C0588,Rebecca Clark,r.clark78@email.com,In store
+C0589,Amanda Owens,a.owens62@email.com,In store
+C0590,John Harris,j.harris79@email.com,App
+C0591,Christopher Mendoza,c.mendoza42@email.com,Online
+C0592,Julie Carter,j.carter45@email.com,Online
+C0593,Matthew Ryan,m.ryan60@email.com,In store
+C0594,Thomas Johnson,t.johnson53@email.com,Online
+C0595,Michael White,m.white48@email.com,In store
+C0596,Adam Kelly,a.kelly67@email.com,Online
+C0597,Chad Peterson,c.peterson32@email.com,App
+C0598,Katie Saunders,k.saunders54@email.com,Online
+C0599,Brandy Wong,b.wong98@email.com,App
+C0600,Sarah King,s.king64@email.com,In store
+C0601,Amber Pineda,a.pineda47@email.com,App
+C0602,Jonathan Lang,j.lang31@email.com,In store
+C0603,Nicole Davis,n.davis20@email.com,Online
+C0604,David Mueller,d.mueller12@email.com,App
+C0605,Joseph Mitchell,j.mitchell16@email.com,App
+C0606,Jessica Ramsey,j.ramsey43@email.com,App
+C0607,Dana Wilcox,d.wilcox14@email.com,App
+C0608,Scott Serrano,s.serrano45@email.com,In store
+C0609,Aaron Hill,a.hill65@email.com,In store
+C0610,Ralph Collins,r.collins36@email.com,In store
+C0611,Roger Williamson,r.williamson36@email.com,In store
+C0612,Rachel Butler,r.butler24@email.com,In store
+C0613,Robert Martinez,r.martinez63@email.com,Online
+C0614,Jason Gonzalez,j.gonzalez43@email.com,App
+C0615,Lauren Munoz,l.munoz55@email.com,App
+C0616,Shannon Wheeler,s.wheeler30@email.com,In store
+C0617,Gabriela Hoffman,g.hoffman48@email.com,App
+C0618,Joshua Arellano,j.arellano98@email.com,App
+C0619,Samantha Wilson,s.wilson59@email.com,Online
+C0620,Denise Joseph,d.joseph67@email.com,Online
+C0621,Scott Ramos,s.ramos83@email.com,Online
+C0622,Stephanie Williams,s.williams33@email.com,Online
+C0623,Trevor Murray,t.murray68@email.com,In store
+C0624,Christopher Preston,c.preston35@email.com,Online
+C0625,Matthew Harris,m.harris92@email.com,In store
+C0626,Amanda Brock,a.brock20@email.com,Online
+C0627,Stacey Malone,s.malone67@email.com,Online
+C0628,Robert Carter,r.carter43@email.com,Online
+C0629,Jessica York,j.york25@email.com,App
+C0630,Tara Sanders,t.sanders10@email.com,In store
+C0631,Savannah Davis,s.davis37@email.com,App
+C0632,Alexis Crawford,a.crawford89@email.com,Online
+C0633,Matthew Robinson,m.robinson41@email.com,App
+C0634,Arthur Gilbert,a.gilbert74@email.com,In store
+C0635,David Young,d.young98@email.com,App
+C0636,Angelica Knox,a.knox20@email.com,Online
+C0637,Heather Browning,h.browning43@email.com,Online
+C0638,Jacob Curtis,j.curtis53@email.com,Online
+C0639,Amanda Jones,a.jones81@email.com,In store
+C0640,Danielle Mills,d.mills77@email.com,Online
+C0641,Mary Ramirez,m.ramirez94@email.com,In store
+C0642,Kayla Sosa,k.sosa41@email.com,App
+C0643,Heather Gonzalez,h.gonzalez87@email.com,In store
+C0644,Ashley Bennett,a.bennett88@email.com,App
+C0645,Jasmine Howard,j.howard31@email.com,App
+C0646,Bryan Ferguson,b.ferguson79@email.com,App
+C0647,Albert Graham,a.graham75@email.com,Online
+C0648,Gregory Bell,g.bell96@email.com,Online
+C0649,Kyle Walker,k.walker84@email.com,In store
+C0650,Hannah Watkins,h.watkins31@email.com,In store
+C0651,Anthony Meadows,a.meadows86@email.com,In store
+C0652,Ronald Mcbride,r.mcbride56@email.com,Online
+C0653,Amy Davis,a.davis31@email.com,In store
+C0654,Tammy Gentry,t.gentry91@email.com,Online
+C0655,Michael Roberts,m.roberts47@email.com,In store
+C0656,Louis Castro,l.castro98@email.com,In store
+C0657,David Nichols,d.nichols54@email.com,Online
+C0658,Ann Ferguson,a.ferguson17@email.com,In store
+C0659,David Hart,d.hart24@email.com,In store
+C0660,Stephanie Gutierrez,s.gutierrez42@email.com,In store
+C0661,Ralph Cunningham,r.cunningham19@email.com,Online
+C0662,Christina Smith,c.smith64@email.com,Online
+C0663,Jacob Wagner,j.wagner72@email.com,App
+C0664,Ryan Anderson,r.anderson44@email.com,In store
+C0665,Mark Harris,m.harris95@email.com,In store
+C0666,Trevor Waters,t.waters75@email.com,In store
+C0667,Anthony Francis,a.francis82@email.com,App
+C0668,Sherry Rodriguez,s.rodriguez47@email.com,App
+C0669,Lonnie Lynch,l.lynch87@email.com,In store
+C0670,Andrew Yates,a.yates42@email.com,In store
+C0671,Ashley Watkins,a.watkins89@email.com,App
+C0672,Brian Martin,b.martin60@email.com,Online
+C0673,Krista Smith,k.smith23@email.com,App
+C0674,Amy Phillips,a.phillips54@email.com,In store
+C0675,Jonathan May,j.may70@email.com,In store
+C0676,Edward Brooks,e.brooks81@email.com,In store
+C0677,Kevin Johnson,k.johnson87@email.com,Online
+C0678,Lauren Munoz,l.munoz59@email.com,App
+C0679,Beth Cole,b.cole51@email.com,Online
+C0680,Lisa Garcia,l.garcia29@email.com,App
+C0681,Chelsea Wilson,c.wilson75@email.com,In store
+C0682,Angela Johnson,a.johnson32@email.com,App
+C0683,Stefanie Schultz,s.schultz20@email.com,In store
+C0684,Marilyn Bowen,m.bowen86@email.com,App
+C0685,Maria Thomas,m.thomas79@email.com,App
+C0686,Nicole Bailey,n.bailey18@email.com,Online
+C0687,Rachel Nelson,r.nelson68@email.com,App
+C0688,Deanna Mendez,d.mendez12@email.com,In store
+C0689,Deborah Taylor,d.taylor39@email.com,Online
+C0690,Angela Lara,a.lara11@email.com,In store
+C0691,Michael Hernandez,m.hernandez90@email.com,In store
+C0692,Alejandra Barnes,a.barnes38@email.com,In store
+C0693,Sean Sullivan,s.sullivan13@email.com,Online
+C0694,Gregory Richards,g.richards49@email.com,App
+C0695,Amy Taylor,a.taylor22@email.com,Online
+C0696,Bryce Davies,b.davies82@email.com,Online
+C0697,Daisy Carter,d.carter50@email.com,App
+C0698,Rachel Lopez,r.lopez51@email.com,Online
+C0699,Randall Jones,r.jones70@email.com,Online
+C0700,Christopher Anderson,c.anderson77@email.com,In store
+C0701,Laura Soto,l.soto40@email.com,App
+C0702,Thomas Jimenez,t.jimenez52@email.com,In store
+C0703,Trevor Anderson,t.anderson38@email.com,App
+C0704,Samuel Gutierrez,s.gutierrez67@email.com,In store
+C0705,Danny Salazar,d.salazar89@email.com,In store
+C0706,Kyle Wilson,k.wilson94@email.com,Online
+C0707,Matthew Cole,m.cole11@email.com,In store
+C0708,Frances Coleman,f.coleman46@email.com,In store
+C0709,Whitney Brown,w.brown55@email.com,Online
+C0710,Destiny Thomas,d.thomas57@email.com,App
+C0711,Christopher Delacruz,c.delacruz17@email.com,App
+C0712,Terri Henderson,t.henderson86@email.com,App
+C0713,Michael Campbell,m.campbell82@email.com,In store
+C0714,Randall Harris,r.harris84@email.com,App
+C0715,Adam Davis,a.davis92@email.com,Online
+C0716,Rachel Le,r.le95@email.com,App
+C0717,Brent Rodriguez,b.rodriguez85@email.com,App
+C0718,Brittany Marquez,b.marquez39@email.com,Online
+C0719,Michael Riley,m.riley14@email.com,In store
+C0720,Jonathan Lee,j.lee54@email.com,Online
+C0721,Michael Flores,m.flores21@email.com,App
+C0722,Tracy Ashley,t.ashley75@email.com,App
+C0723,Pamela Jackson,p.jackson61@email.com,App
+C0724,Alice Smith,a.smith41@email.com,App
+C0725,Matthew Porter,m.porter15@email.com,Online
+C0726,Kristy Turner,k.turner98@email.com,App
+C0727,Deanna Leach,d.leach22@email.com,App
+C0728,Robert Hoffman,r.hoffman53@email.com,Online
+C0729,Stephen Rivera,s.rivera18@email.com,Online
+C0730,Patrick Hayes,p.hayes68@email.com,In store
+C0731,Susan Butler,s.butler39@email.com,Online
+C0732,Jessica Travis,j.travis53@email.com,In store
+C0733,Amanda Morris,a.morris25@email.com,Online
+C0734,Linda Newman,l.newman95@email.com,Online
+C0735,Mark Thompson,m.thompson83@email.com,In store
+C0736,Jeff Klein,j.klein11@email.com,App
+C0737,Rachel Reed,r.reed51@email.com,In store
+C0738,Elizabeth Mccall,e.mccall30@email.com,App
+C0739,Joshua Cook,j.cook69@email.com,Online
+C0740,Christine Key,c.key13@email.com,In store
+C0741,Joann Kaiser,j.kaiser98@email.com,Online
+C0742,Donald Gray,d.gray85@email.com,Online
+C0743,Shirley Freeman,s.freeman59@email.com,In store
+C0744,Melissa Smith,m.smith85@email.com,Online
+C0745,Caitlin Richards,c.richards35@email.com,In store
+C0746,Matthew Robinson,m.robinson46@email.com,App
+C0747,Maria Knight,m.knight27@email.com,Online
+C0748,Steven Clark,s.clark26@email.com,Online
+C0749,David Fields,d.fields90@email.com,App
+C0750,Nancy Palmer,n.palmer64@email.com,App
+C0751,Cheryl Shepard,c.shepard74@email.com,In store
+C0752,Jeff George,j.george81@email.com,Online
+C0753,Kayla Wilkinson,k.wilkinson45@email.com,App
+C0754,Jason Brown,j.brown13@email.com,In store
+C0755,Frank Chung,f.chung20@email.com,App
+C0756,Kimberly Day,k.day12@email.com,Online
+C0757,Kristine Espinoza,k.espinoza21@email.com,In store
+C0758,Steven Lewis,s.lewis82@email.com,In store
+C0759,Benjamin Fletcher,b.fletcher31@email.com,Online
+C0760,Joseph Oconnor,j.oconnor15@email.com,In store
+C0761,Amanda Yang,a.yang88@email.com,In store
+C0762,Edward Ruiz,e.ruiz64@email.com,Online
+C0763,Daniel Cook,d.cook61@email.com,App
+C0764,Alan Craig,a.craig71@email.com,In store
+C0765,Brandon Wallace,b.wallace83@email.com,In store
+C0766,Darlene Nguyen,d.nguyen28@email.com,App
+C0767,Ruth Cardenas,r.cardenas37@email.com,Online
+C0768,Deborah Lewis,d.lewis28@email.com,App
+C0769,Tamara Zimmerman,t.zimmerman40@email.com,Online
+C0770,Michael Francis,m.francis71@email.com,Online
+C0771,Jody Allen,j.allen59@email.com,App
+C0772,Rachel Rivas,r.rivas68@email.com,Online
+C0773,Sandra Henry,s.henry67@email.com,App
+C0774,Amy Schneider,a.schneider18@email.com,In store
+C0775,Timothy Cain,t.cain50@email.com,App
+C0776,Ryan Walsh,r.walsh67@email.com,In store
+C0777,Michael Lynn,m.lynn77@email.com,Online
+C0778,Caleb Porter,c.porter33@email.com,App
+C0779,Vincent Hall,v.hall89@email.com,Online
+C0780,Richard Garcia,r.garcia90@email.com,App
+C0781,Karen Johnson,k.johnson12@email.com,App
+C0782,James Scott,j.scott76@email.com,In store
+C0783,Amanda Martinez,a.martinez29@email.com,In store
+C0784,Linda Hoover,l.hoover15@email.com,In store
+C0785,Jason Cook,j.cook52@email.com,Online
+C0786,Kelly Smith,k.smith36@email.com,Online
+C0787,Michelle Robinson,m.robinson27@email.com,Online
+C0788,Tiffany Nguyen,t.nguyen24@email.com,App
+C0789,Makayla Shelton,m.shelton85@email.com,Online
+C0790,Paul Harris,p.harris30@email.com,In store
+C0791,Amanda Shaw,a.shaw10@email.com,App
+C0792,Daniel Morrison,d.morrison64@email.com,In store
+C0793,Jennifer Wallace,j.wallace56@email.com,In store
+C0794,Ashley Lynch,a.lynch48@email.com,App
+C0795,Seth Woods,s.woods36@email.com,In store
+C0796,Linda Garcia,l.garcia59@email.com,App
+C0797,Julie White,j.white64@email.com,In store
+C0798,Mark Greene,m.greene37@email.com,In store
+C0799,Emily Schultz,e.schultz91@email.com,App
+C0800,Jennifer James,j.james25@email.com,App
+C0801,Jody Harvey,j.harvey96@email.com,Online
+C0802,David Robinson,d.robinson65@email.com,App
+C0803,Tabitha Smith,t.smith37@email.com,Online
+C0804,Christine Woods,c.woods76@email.com,App
+C0805,Eric Lee,e.lee25@email.com,App
+C0806,Luis Abbott,l.abbott92@email.com,Online
+C0807,Janet Reyes,j.reyes58@email.com,Online
+C0808,Michael Aguirre,m.aguirre27@email.com,Online
+C0809,Dawn Williams,d.williams25@email.com,App
+C0810,Joseph Flynn,j.flynn62@email.com,App
+C0811,John Richards,j.richards89@email.com,In store
+C0812,Loretta Stein,l.stein30@email.com,In store
+C0813,Michael Gordon,m.gordon66@email.com,Online
+C0814,Amanda Carey,a.carey56@email.com,Online
+C0815,Aaron Smith,a.smith57@email.com,App
+C0816,Bobby Walker,b.walker96@email.com,Online
+C0817,Seth Boyer,s.boyer39@email.com,In store
+C0818,Michael Sandoval,m.sandoval59@email.com,In store
+C0819,April King,a.king25@email.com,In store
+C0820,John Jones,j.jones12@email.com,Online
+C0821,Troy Scott,t.scott70@email.com,Online
+C0822,Ronald Gould,r.gould35@email.com,Online
+C0823,Randy Scott,r.scott75@email.com,App
+C0824,Patrick Fuentes,p.fuentes26@email.com,Online
+C0825,Joshua Ayala,j.ayala79@email.com,Online
+C0826,Edwin Ray,e.ray66@email.com,In store
+C0827,Kayla Green,k.green66@email.com,Online
+C0828,Nathaniel Stewart,n.stewart85@email.com,In store
+C0829,Adam Kelly,a.kelly25@email.com,Online
+C0830,David Wilson,d.wilson43@email.com,App
+C0831,Christopher Pugh,c.pugh76@email.com,App
+C0832,Christopher Castro,c.castro50@email.com,App
+C0833,Michael Neal,m.neal38@email.com,Online
+C0834,Wanda Jones,w.jones73@email.com,App
+C0835,Caleb Gonzalez,c.gonzalez86@email.com,App
+C0836,Daniel Kelley,d.kelley86@email.com,In store
+C0837,Nicole Wilson,n.wilson38@email.com,Online
+C0838,Brittany Galvan,b.galvan24@email.com,In store
+C0839,Jennifer Robles,j.robles54@email.com,Online
+C0840,Kenneth Stone,k.stone47@email.com,Online
+C0841,Christian Patrick,c.patrick80@email.com,App
+C0842,Daniel Phillips,d.phillips85@email.com,App
+C0843,Emily Rios,e.rios14@email.com,App
+C0844,Tiffany Lewis,t.lewis40@email.com,In store
+C0845,Daniel Walls,d.walls62@email.com,Online
+C0846,Tyler Brady,t.brady10@email.com,Online
+C0847,Daniel Lutz,d.lutz78@email.com,In store
+C0848,Kevin Nelson,k.nelson24@email.com,In store
+C0849,James Richmond,j.richmond61@email.com,Online
+C0850,Carl Jones,c.jones33@email.com,App
+C0851,Travis Hicks,t.hicks56@email.com,App
+C0852,Andrea King,a.king40@email.com,App
+C0853,Jennifer Ho,j.ho86@email.com,App
+C0854,Angela Jones,a.jones63@email.com,Online
+C0855,Robert Ford,r.ford92@email.com,Online
+C0856,Nathan Meyer,n.meyer89@email.com,App
+C0857,James Collins,j.collins98@email.com,Online
+C0858,Caroline Fisher,c.fisher63@email.com,App
+C0859,Dalton Bradley,d.bradley89@email.com,App
+C0860,Cody Allen,c.allen63@email.com,In store
+C0861,Rebecca Trujillo,r.trujillo49@email.com,App
+C0862,Emily Garcia,e.garcia33@email.com,App
+C0863,Laura Blake,l.blake46@email.com,App
+C0864,Emily Russo,e.russo43@email.com,Online
+C0865,Michael Sanchez,m.sanchez33@email.com,In store
+C0866,Robert Chambers,r.chambers13@email.com,In store
+C0867,William Schultz,w.schultz59@email.com,Online
+C0868,Richard Espinoza,r.espinoza87@email.com,Online
+C0869,Joy Chase,j.chase45@email.com,App
+C0870,Michael Welch,m.welch44@email.com,In store
+C0871,Renee Gill,r.gill45@email.com,App
+C0872,Paul Williams,p.williams20@email.com,App
+C0873,Colin Perez,c.perez58@email.com,App
+C0874,Holly Simmons,h.simmons66@email.com,In store
+C0875,Susan Hart,s.hart96@email.com,App
+C0876,Timothy Cunningham,t.cunningham65@email.com,Online
+C0877,Brian Morgan,b.morgan13@email.com,In store
+C0878,Robert Obrien,r.obrien34@email.com,Online
+C0879,Edward Rose,e.rose28@email.com,Online
+C0880,Robert Dominguez,r.dominguez93@email.com,Online
+C0881,Devin Mcclure,d.mcclure79@email.com,In store
+C0882,Christopher Peterson,c.peterson80@email.com,In store
+C0883,Katherine Smith,k.smith39@email.com,Online
+C0884,Tamara Gordon,t.gordon57@email.com,Online
+C0885,Brenda Berry,b.berry39@email.com,App
+C0886,Caitlin Alvarez,c.alvarez13@email.com,Online
+C0887,Timothy Chapman,t.chapman76@email.com,Online
+C0888,Jason Strickland,j.strickland36@email.com,Online
+C0889,Tyler Smith,t.smith54@email.com,App
+C0890,Logan Kennedy,l.kennedy44@email.com,In store
+C0891,Stephanie Christian,s.christian64@email.com,Online
+C0892,Sharon King,s.king96@email.com,App
+C0893,William Smith,w.smith82@email.com,App
+C0894,Ashley Padilla,a.padilla49@email.com,Online
+C0895,Justin Mcbride,j.mcbride40@email.com,App
+C0896,Tanya Mcconnell,t.mcconnell26@email.com,App
+C0897,Kimberly Hall,k.hall75@email.com,In store
+C0898,Randall Ruiz,r.ruiz86@email.com,App
+C0899,Natasha Lee,n.lee31@email.com,App
+C0900,Larry Alexander,l.alexander95@email.com,Online
+C0901,Mary Robinson,m.robinson15@email.com,Online
+C0902,Shawn Smith,s.smith13@email.com,In store
+C0903,Nancy Brooks,n.brooks50@email.com,In store
+C0904,Douglas Guzman,d.guzman60@email.com,In store
+C0905,Linda Johnson,l.johnson11@email.com,App
+C0906,Melissa Marshall,m.marshall54@email.com,In store
+C0907,Elaine Carpenter,e.carpenter48@email.com,In store
+C0908,Kimberly Duarte,k.duarte63@email.com,Online
+C0909,Henry Johnson,h.johnson27@email.com,In store
+C0910,Dana Mann,d.mann23@email.com,In store
+C0911,David Glass,d.glass49@email.com,In store
+C0912,Joseph Barnes,j.barnes98@email.com,In store
+C0913,Kevin Anthony,k.anthony96@email.com,App
+C0914,Janet Taylor,j.taylor57@email.com,Online
+C0915,Morgan Valencia,m.valencia98@email.com,In store
+C0916,Benjamin Fleming,b.fleming63@email.com,App
+C0917,Connie Carroll,c.carroll33@email.com,In store
+C0918,Lisa Whitaker,l.whitaker51@email.com,App
+C0919,Elizabeth Shaffer,e.shaffer93@email.com,Online
+C0920,Michelle Alexander,m.alexander59@email.com,In store
+C0921,Robert Fitzgerald,r.fitzgerald37@email.com,App
+C0922,Drew Gordon,d.gordon36@email.com,In store
+C0923,Megan Cowan,m.cowan77@email.com,App
+C0924,Spencer Reynolds,s.reynolds93@email.com,Online
+C0925,Dean Waters,d.waters67@email.com,Online
+C0926,Michael Love,m.love69@email.com,In store
+C0927,Amy Landry,a.landry28@email.com,In store
+C0928,Pam Barber,p.barber70@email.com,In store
+C0929,Jeanette Duncan,j.duncan58@email.com,App
+C0930,Kevin Robinson,k.robinson43@email.com,Online
+C0931,David Walker,d.walker69@email.com,App
+C0932,Stephen Morales,s.morales91@email.com,Online
+C0933,Antonio Acosta,a.acosta38@email.com,App
+C0934,William Holmes,w.holmes54@email.com,App
+C0935,Judy Walker,j.walker18@email.com,App
+C0936,Sarah Strickland,s.strickland44@email.com,Online
+C0937,Alyssa Mills,a.mills47@email.com,App
+C0938,Lauren Ellis,l.ellis38@email.com,Online
+C0939,Cathy Morgan,c.morgan79@email.com,App
+C0940,Jacqueline Rivera,j.rivera82@email.com,In store
+C0941,Jennifer Carr,j.carr54@email.com,In store
+C0942,Shelley Miller,s.miller62@email.com,Online
+C0943,Alexandra Moreno,a.moreno13@email.com,App
+C0944,Kayla Werner,k.werner28@email.com,App
+C0945,Holly Reeves,h.reeves20@email.com,App
+C0946,Kimberly Hicks,k.hicks41@email.com,In store
+C0947,Michael Gonzalez,m.gonzalez23@email.com,In store
+C0948,Gabrielle Wade,g.wade78@email.com,In store
+C0949,Sherry Jimenez,s.jimenez23@email.com,App
+C0950,Sandra Garcia,s.garcia21@email.com,In store
+C0951,Christopher Torres,c.torres93@email.com,Online
+C0952,Brandon Ritter,b.ritter27@email.com,In store
+C0953,Christina Spencer,c.spencer13@email.com,Online
+C0954,Lisa Fields,l.fields41@email.com,In store
+C0955,Eric Booth,e.booth88@email.com,App
+C0956,Stephanie Ramirez,s.ramirez24@email.com,Online
+C0957,Joseph Reed,j.reed63@email.com,App
+C0958,Melissa Sanford,m.sanford76@email.com,Online
+C0959,Audrey Mcdowell,a.mcdowell17@email.com,App
+C0960,Julie Dixon,j.dixon72@email.com,In store
+C0961,Timothy Wilson,t.wilson26@email.com,Online
+C0962,Angela Shaffer,a.shaffer54@email.com,Online
+C0963,Felicia Glover,f.glover89@email.com,App
+C0964,Craig Harrison,c.harrison48@email.com,Online
+C0965,Jennifer Allen,j.allen86@email.com,App
+C0966,Sandra Stevens,s.stevens41@email.com,In store
+C0967,Marvin Davis,m.davis91@email.com,In store
+C0968,Bryan Lee,b.lee73@email.com,Online
+C0969,Richard Mitchell,r.mitchell33@email.com,App
+C0970,Ashley Ramos,a.ramos72@email.com,Online
+C0971,Maria Mitchell,m.mitchell65@email.com,In store
+C0972,Kelly Bradshaw,k.bradshaw82@email.com,Online
+C0973,Sonia Baker,s.baker47@email.com,Online
+C0974,Jack Jacobs,j.jacobs69@email.com,App
+C0975,Brian Oconnor,b.oconnor64@email.com,In store
+C0976,Melinda Garcia,m.garcia30@email.com,Online
+C0977,Barry Luna,b.luna34@email.com,Online
+C0978,Rodney Church,r.church47@email.com,Online
+C0979,Mallory Miller,m.miller84@email.com,In store
+C0980,James King,j.king13@email.com,App
+C0981,John Thomas,j.thomas71@email.com,Online
+C0982,Colton Carter,c.carter64@email.com,In store
+C0983,Gary Mitchell,g.mitchell81@email.com,App
+C0984,Nancy Shepherd,n.shepherd93@email.com,In store
+C0985,Elizabeth Mcclain,e.mcclain77@email.com,In store
+C0986,Kevin Allen,k.allen30@email.com,App
+C0987,Cindy Anderson,c.anderson79@email.com,Online
+C0988,Alexandra Price,a.price44@email.com,App
+C0989,Ashley Johnson,a.johnson42@email.com,In store
+C0990,Angela Rice,a.rice16@email.com,In store
+C0991,Sherry Arias,s.arias36@email.com,In store
+C0992,Ryan Gutierrez,r.gutierrez49@email.com,Online
+C0993,Cindy Johnson,c.johnson44@email.com,In store
+C0994,Jennifer Soto,j.soto48@email.com,App
+C0995,Melissa Allen,m.allen54@email.com,App
+C0996,Brett Peterson,b.peterson12@email.com,In store
+C0997,Richard Ball,r.ball61@email.com,Online
+C0998,Sarah Hudson,s.hudson63@email.com,App
+C0999,Aaron Allison,a.allison43@email.com,App
+C1000,Kelly Pham,k.pham37@email.com,In store
+C1001,Laura Davis,l.davis75@email.com,In store
+C1002,Craig Blair,c.blair75@email.com,In store
+C1003,Michelle Craig,m.craig25@email.com,In store
+C1004,Jeremiah Mcguire,j.mcguire84@email.com,In store
+C1005,Eric Brown,e.brown24@email.com,App
+C1006,Lisa Aguilar,l.aguilar81@email.com,In store
+C1007,Melissa Howell,m.howell19@email.com,Online
+C1008,Andrew Long,a.long27@email.com,In store
+C1009,Monica Blanchard,m.blanchard25@email.com,Online
+C1010,Judith Proctor,j.proctor61@email.com,App
+C1011,Christina Jones,c.jones66@email.com,App
+C1012,Tiffany Boyd,t.boyd49@email.com,Online
+C1013,Lisa Chapman,l.chapman89@email.com,Online
+C1014,Mackenzie Robinson,m.robinson27@email.com,App
+C1015,Kimberly Lee,k.lee45@email.com,App
+C1016,Roger Wallace,r.wallace50@email.com,In store
+C1017,Jonathan Christensen,j.christensen90@email.com,Online
+C1018,Robert Jimenez,r.jimenez80@email.com,Online
+C1019,Mia Ramirez,m.ramirez33@email.com,In store
+C1020,Kevin Acosta,k.acosta74@email.com,Online
+C1021,Mary Diaz,m.diaz23@email.com,App
+C1022,Kelly Reed,k.reed91@email.com,In store
+C1023,Claudia Wilson,c.wilson16@email.com,Online
+C1024,Barry Burnett,b.burnett16@email.com,Online
+C1025,Ricky Doyle,r.doyle90@email.com,Online
+C1026,Amy Cohen,a.cohen94@email.com,In store
+C1027,Laura Flynn,l.flynn82@email.com,Online
+C1028,Ryan Friedman,r.friedman88@email.com,Online
+C1029,Melinda Bruce,m.bruce36@email.com,Online
+C1030,Gregory Giles,g.giles19@email.com,Online
+C1031,Cathy Clark,c.clark32@email.com,Online
+C1032,Meghan Wolf,m.wolf50@email.com,In store
+C1033,Krista Jones,k.jones60@email.com,In store
+C1034,Amber Brewer,a.brewer10@email.com,In store
+C1035,Joseph Stewart,j.stewart65@email.com,In store
+C1036,Robert Jacobson,r.jacobson80@email.com,App
+C1037,Christopher Thomas,c.thomas84@email.com,In store
+C1038,Jeffrey Fitzgerald,j.fitzgerald58@email.com,App
+C1039,Austin Riddle,a.riddle58@email.com,App
+C1040,Dawn Soto,d.soto83@email.com,In store
+C1041,Dana Griffin,d.griffin83@email.com,Online
+C1042,Juan Maldonado,j.maldonado68@email.com,App
+C1043,Brian Simmons,b.simmons19@email.com,App
+C1044,Valerie Cobb,v.cobb62@email.com,Online
+C1045,Robert Fry,r.fry17@email.com,App
+C1046,Jacqueline Walsh,j.walsh93@email.com,App
+C1047,Melissa Rogers,m.rogers60@email.com,App
+C1048,Robert Graham,r.graham69@email.com,In store
+C1049,Dustin Crawford,d.crawford62@email.com,Online
+C1050,Mary Wong,m.wong40@email.com,In store
+C1051,Michelle Salinas,m.salinas22@email.com,In store
+C1052,Kimberly Lee,k.lee40@email.com,In store
+C1053,Crystal Grant,c.grant36@email.com,In store
+C1054,Amy Thomas,a.thomas90@email.com,App
+C1055,Brittney Thomas,b.thomas60@email.com,App
+C1056,Richard Torres,r.torres49@email.com,In store
+C1057,Caroline Roberts,c.roberts71@email.com,Online
+C1058,Jeremy Smith,j.smith24@email.com,App
+C1059,Crystal Dominguez,c.dominguez79@email.com,Online
+C1060,Briana Brown,b.brown17@email.com,App
+C1061,Kevin Leonard,k.leonard72@email.com,App
+C1062,Madison Brown,m.brown51@email.com,App
+C1063,Amy Robinson,a.robinson75@email.com,In store
+C1064,Rachel Watson,r.watson10@email.com,Online
+C1065,William Brown,w.brown96@email.com,In store
+C1066,Lynn May,l.may46@email.com,In store
+C1067,Tami Mills,t.mills20@email.com,Online
+C1068,Anthony Jones,a.jones56@email.com,Online
+C1069,Meredith Lopez,m.lopez98@email.com,App
+C1070,David Martin,d.martin13@email.com,App
+C1071,Morgan Hernandez,m.hernandez86@email.com,App
+C1072,Tracie West,t.west86@email.com,App
+C1073,Cheryl Sanchez,c.sanchez21@email.com,Online
+C1074,Angela Beck,a.beck46@email.com,Online
+C1075,Alison Mcmillan,a.mcmillan32@email.com,App
+C1076,Reginald Hill,r.hill28@email.com,App
+C1077,Timothy Douglas,t.douglas97@email.com,App
+C1078,Christine Li,c.li13@email.com,Online
+C1079,Tina Jones,t.jones21@email.com,In store
+C1080,Victoria Moreno,v.moreno44@email.com,App
+C1081,Aaron Perez,a.perez52@email.com,Online
+C1082,Cassandra Davis,c.davis76@email.com,In store
+C1083,Roger Wiley,r.wiley73@email.com,In store
+C1084,Monica Williams,m.williams61@email.com,In store
+C1085,Caroline Morales,c.morales92@email.com,App
+C1086,Ellen Morris,e.morris42@email.com,In store
+C1087,Barbara Higgins,b.higgins44@email.com,In store
+C1088,Rebecca Gilbert,r.gilbert54@email.com,In store
+C1089,Michael Rodriguez,m.rodriguez77@email.com,Online
+C1090,Kristopher Fisher,k.fisher67@email.com,Online
+C1091,Janice Jones,j.jones79@email.com,Online
+C1092,Derek Bradley,d.bradley88@email.com,In store
+C1093,Shannon Erickson,s.erickson43@email.com,In store
+C1094,Gina Yoder,g.yoder93@email.com,App
+C1095,Nathaniel Garcia,n.garcia73@email.com,In store
+C1096,Joseph Page,j.page36@email.com,App
+C1097,Daniel Garcia,d.garcia74@email.com,In store
+C1098,Christine Baker,c.baker49@email.com,App
+C1099,Michael Woods,m.woods23@email.com,Online
+C1100,Lori Hammond,l.hammond55@email.com,Online
+C1101,James Walker,j.walker94@email.com,Online
+C1102,Wanda Ramirez,w.ramirez84@email.com,App
+C1103,Jennifer Cain,j.cain68@email.com,In store
+C1104,Jill Jacobson,j.jacobson74@email.com,In store
+C1105,Rebecca Riley,r.riley55@email.com,Online
+C1106,Jonathan Cook,j.cook63@email.com,Online
+C1107,Charles Sanchez,c.sanchez13@email.com,Online
+C1108,Michael Nelson,m.nelson13@email.com,App
+C1109,David Bright,d.bright26@email.com,In store
+C1110,Christopher Jackson,c.jackson83@email.com,App
+C1111,Jennifer Dixon,j.dixon82@email.com,App
+C1112,Erin Miller,e.miller57@email.com,App
+C1113,Larry Diaz,l.diaz58@email.com,App
+C1114,Elizabeth Pierce,e.pierce36@email.com,In store
+C1115,Carlos Lawson,c.lawson33@email.com,In store
+C1116,Samantha Oliver,s.oliver92@email.com,Online
+C1117,Anthony Bowers,a.bowers35@email.com,Online
+C1118,Sarah Johnson,s.johnson12@email.com,App
+C1119,April Luna,a.luna65@email.com,Online
+C1120,Michael Huang,m.huang34@email.com,In store
+C1121,Alexander Martinez,a.martinez77@email.com,App
+C1122,Steven Wright,s.wright91@email.com,App
+C1123,Deborah Smith,d.smith91@email.com,App
+C1124,Caitlin Webb,c.webb50@email.com,Online
+C1125,Tiffany Garcia,t.garcia69@email.com,App
+C1126,John Terry,j.terry42@email.com,Online
+C1127,Paul Greene,p.greene91@email.com,Online
+C1128,Tiffany Koch,t.koch32@email.com,Online
+C1129,William Hayes,w.hayes72@email.com,Online
+C1130,Brent Haynes,b.haynes52@email.com,In store
+C1131,Cody Reynolds,c.reynolds92@email.com,In store
+C1132,Mario Berry,m.berry46@email.com,Online
+C1133,Daniel Rivera,d.rivera68@email.com,In store
+C1134,Danielle Reyes,d.reyes80@email.com,App
+C1135,Kelli Miller,k.miller64@email.com,Online
+C1136,Katie Ray,k.ray24@email.com,Online
+C1137,Crystal Sheppard,c.sheppard70@email.com,In store
+C1138,Ashlee Yates,a.yates63@email.com,In store
+C1139,Marilyn Ballard,m.ballard38@email.com,In store
+C1140,Derrick Neal,d.neal36@email.com,In store
+C1141,Samantha Curtis,s.curtis77@email.com,In store
+C1142,Julia Salinas,j.salinas21@email.com,Online
+C1143,Tammy Johnson,t.johnson32@email.com,Online
+C1144,Adam Mcgrath,a.mcgrath84@email.com,In store
+C1145,Trevor Hansen,t.hansen97@email.com,Online
+C1146,Rhonda Conner,r.conner36@email.com,App
+C1147,James Miller,j.miller18@email.com,In store
+C1148,Gabrielle George,g.george79@email.com,App
+C1149,Emily Medina,e.medina49@email.com,Online
+C1150,Jodi Bates,j.bates13@email.com,App
+C1151,Ryan Warner,r.warner22@email.com,Online
+C1152,Ashley Pena,a.pena43@email.com,In store
+C1153,Lynn Buchanan,l.buchanan62@email.com,App
+C1154,Kyle Williams,k.williams17@email.com,App
+C1155,Christopher Roman,c.roman83@email.com,In store
+C1156,Michael Wilson,m.wilson73@email.com,App
+C1157,Jerry Sherman,j.sherman98@email.com,App
+C1158,Allen Franklin,a.franklin51@email.com,App
+C1159,Nicole Jackson,n.jackson11@email.com,App
+C1160,Mark Koch,m.koch85@email.com,In store
+C1161,Erik Navarro,e.navarro95@email.com,In store
+C1162,Terri Cole,t.cole61@email.com,App
+C1163,Caitlin Fuentes,c.fuentes31@email.com,Online
+C1164,Stephanie Hernandez,s.hernandez45@email.com,App
+C1165,Heather Davis,h.davis27@email.com,In store
+C1166,Brooke Ross,b.ross36@email.com,Online
+C1167,Anthony Hughes,a.hughes76@email.com,In store
+C1168,Misty Brown,m.brown26@email.com,In store
+C1169,Amanda Baldwin,a.baldwin27@email.com,App
+C1170,Jose Henson,j.henson26@email.com,Online
+C1171,Tammy Bowers,t.bowers34@email.com,In store
+C1172,Aaron Flores,a.flores36@email.com,Online
+C1173,Sharon Pittman,s.pittman59@email.com,In store
+C1174,Bryan Graham,b.graham90@email.com,In store
+C1175,Robert Brown,r.brown30@email.com,Online
+C1176,Jose Haynes,j.haynes69@email.com,App
+C1177,William Walker,w.walker29@email.com,Online
+C1178,Paul Moore,p.moore77@email.com,In store
+C1179,Mary Mendez,m.mendez53@email.com,Online
+C1180,Amy Long,a.long30@email.com,In store
+C1181,Brandi Jones,b.jones20@email.com,In store
+C1182,Angela Clark,a.clark53@email.com,Online
+C1183,Jasmine George,j.george93@email.com,Online
+C1184,Thomas Roberts,t.roberts52@email.com,App
+C1185,Dominique Hurst,d.hurst30@email.com,In store
+C1186,Jane Neal,j.neal26@email.com,Online
+C1187,Joseph Johnson,j.johnson46@email.com,App
+C1188,Ian Davis,i.davis13@email.com,Online
+C1189,Maria Owens,m.owens59@email.com,In store
+C1190,Sean Harris,s.harris86@email.com,Online
+C1191,Robin Taylor,r.taylor88@email.com,In store
+C1192,John Haney,j.haney47@email.com,Online
+C1193,William Austin,w.austin41@email.com,App
+C1194,Eric Silva,e.silva81@email.com,In store
+C1195,Angela Carter,a.carter39@email.com,Online
+C1196,Christopher Stein,c.stein14@email.com,App
+C1197,Jacob Greer,j.greer18@email.com,App
+C1198,Elizabeth Kelley,e.kelley42@email.com,App
+C1199,Cody Smith,c.smith40@email.com,App
+C1200,Monica Wood,m.wood63@email.com,App
+C1201,Nathan Lucero,n.lucero70@email.com,Online
+C1202,Christopher Collins,c.collins29@email.com,Online
+C1203,Ethan Jones,e.jones94@email.com,In store
+C1204,Timothy Ware,t.ware45@email.com,In store
+C1205,Chelsea Hernandez,c.hernandez55@email.com,In store
+C1206,Brian Blankenship,b.blankenship27@email.com,Online
+C1207,Anita Holland,a.holland83@email.com,Online
+C1208,Nicholas Suarez,n.suarez73@email.com,Online
+C1209,Nicholas Smith,n.smith88@email.com,App
+C1210,Brent Chan,b.chan81@email.com,App
+C1211,Justin Griffin,j.griffin20@email.com,Online
+C1212,Sharon Walker,s.walker51@email.com,In store
+C1213,Kathy Esparza,k.esparza56@email.com,Online
+C1214,Alan Boyd,a.boyd52@email.com,App
+C1215,Micheal Harper,m.harper29@email.com,In store
+C1216,Brandon Benton,b.benton37@email.com,App
+C1217,Carla Jones,c.jones71@email.com,Online
+C1218,Elizabeth Schroeder,e.schroeder63@email.com,Online
+C1219,Sandra Mckee,s.mckee16@email.com,Online
+C1220,Kara Johnson,k.johnson50@email.com,App
+C1221,Kenneth Reyes,k.reyes63@email.com,Online
+C1222,Elizabeth Fowler,e.fowler53@email.com,In store
+C1223,Johnathan Olson,j.olson72@email.com,In store
+C1224,Michael Thomas,m.thomas54@email.com,Online
+C1225,Jason Rivers,j.rivers86@email.com,App
+C1226,David Green,d.green12@email.com,App
+C1227,Elijah Martin,e.martin97@email.com,In store
+C1228,Catherine Reed,c.reed80@email.com,Online
+C1229,Stacy Beck,s.beck14@email.com,In store
+C1230,Karen Nguyen,k.nguyen81@email.com,App
+C1231,Paul Johnson,p.johnson48@email.com,Online
+C1232,Jennifer Watkins,j.watkins52@email.com,App
+C1233,Rhonda Wright,r.wright37@email.com,App
+C1234,Joanna Coleman,j.coleman85@email.com,App
+C1235,Zachary Hawkins,z.hawkins79@email.com,App
+C1236,Amber Jenkins,a.jenkins73@email.com,App
+C1237,Joshua Peterson,j.peterson18@email.com,App
+C1238,Gregory Johnson,g.johnson50@email.com,Online
+C1239,Audrey Blair,a.blair19@email.com,Online
+C1240,Jill Stone,j.stone91@email.com,Online
+C1241,Robert Singh,r.singh19@email.com,App
+C1242,Robert Diaz,r.diaz41@email.com,App
+C1243,Michael Johnson,m.johnson63@email.com,Online
+C1244,Katherine Gregory,k.gregory92@email.com,App
+C1245,Karen Gutierrez,k.gutierrez43@email.com,App
+C1246,Darrell Holloway,d.holloway14@email.com,App
+C1247,Elizabeth Allen,e.allen63@email.com,Online
+C1248,Alexis Young,a.young19@email.com,In store
+C1249,Sharon Calderon,s.calderon20@email.com,App
+C1250,Sara Edwards,s.edwards75@email.com,Online
+C1251,Christopher Burns,c.burns30@email.com,In store
+C1252,Elizabeth Martin,e.martin55@email.com,App
+C1253,Joshua Murphy,j.murphy84@email.com,App
+C1254,Courtney Jones,c.jones83@email.com,In store
+C1255,Stephanie Baker,s.baker46@email.com,In store
+C1256,Cole Rodriguez,c.rodriguez23@email.com,Online
+C1257,Brian Becker,b.becker66@email.com,In store
+C1258,Scott Bradshaw,s.bradshaw78@email.com,Online
+C1259,David Martinez,d.martinez33@email.com,App
+C1260,Monica Roberts,m.roberts56@email.com,Online
+C1261,William Johns,w.johns89@email.com,App
+C1262,Michelle Johnson,m.johnson61@email.com,In store
+C1263,Shawn Murphy,s.murphy17@email.com,Online
+C1264,Adam Mitchell,a.mitchell41@email.com,Online
+C1265,Shelby Erickson,s.erickson26@email.com,In store
+C1266,Emily Bennett,e.bennett81@email.com,App
+C1267,Jacob Chaney,j.chaney59@email.com,Online
+C1268,Ryan Hester,r.hester92@email.com,In store
+C1269,Kimberly Wolfe,k.wolfe53@email.com,In store
+C1270,Lisa Tucker,l.tucker77@email.com,App
+C1271,Rachael Kelly,r.kelly19@email.com,In store
+C1272,Evelyn King,e.king53@email.com,App
+C1273,Samantha Brown,s.brown25@email.com,App
+C1274,James Barnes,j.barnes32@email.com,In store
+C1275,Phillip Whitehead,p.whitehead30@email.com,Online
+C1276,Erin Collins,e.collins32@email.com,App
+C1277,Summer Macdonald,s.macdonald82@email.com,Online
+C1278,James Brown,j.brown91@email.com,In store
+C1279,Thomas Jackson,t.jackson54@email.com,Online
+C1280,Kelly Mcclure,k.mcclure90@email.com,In store
+C1281,Robert Rios,r.rios10@email.com,Online
+C1282,Mason Beard,m.beard52@email.com,In store
+C1283,Darrell Patel,d.patel15@email.com,Online
+C1284,Philip Gardner,p.gardner20@email.com,Online
+C1285,Michelle Cox,m.cox75@email.com,In store
+C1286,Monique Evans,m.evans29@email.com,In store
+C1287,Annette Pineda,a.pineda45@email.com,Online
+C1288,Katherine Contreras,k.contreras65@email.com,App
+C1289,Jeffrey Fowler,j.fowler20@email.com,Online
+C1290,Fred Miller,f.miller90@email.com,Online
+C1291,Juan Wright,j.wright54@email.com,Online
+C1292,Stephanie Johnson,s.johnson68@email.com,Online
+C1293,Vincent Patel,v.patel52@email.com,Online
+C1294,John Smith,j.smith61@email.com,App
+C1295,Keith Smith,k.smith71@email.com,Online
+C1296,Donna Flores,d.flores26@email.com,In store
+C1297,Debbie Kelly,d.kelly55@email.com,In store
+C1298,Megan Brown,m.brown22@email.com,Online
+C1299,Hannah Boyd,h.boyd95@email.com,In store
+C1300,Richard Heath,r.heath42@email.com,Online
+C1301,Nicholas Buckley,n.buckley59@email.com,App
+C1302,Jacqueline Peterson,j.peterson36@email.com,Online
+C1303,Peter Miller,p.miller67@email.com,In store
+C1304,Marissa Cook,m.cook72@email.com,In store
+C1305,Lisa Clayton,l.clayton37@email.com,In store
+C1306,Daniel Horn,d.horn37@email.com,App
+C1307,Nicole Bishop,n.bishop83@email.com,Online
+C1308,Steven Rodriguez,s.rodriguez77@email.com,Online
+C1309,Daniel Williams,d.williams50@email.com,Online
+C1310,Kathleen Hanson,k.hanson64@email.com,App
+C1311,Lindsey Gonzalez,l.gonzalez78@email.com,Online
+C1312,Tracy Salazar,t.salazar66@email.com,Online
+C1313,Erin Sanchez,e.sanchez75@email.com,In store
+C1314,John Thompson,j.thompson52@email.com,Online
+C1315,Kathleen West,k.west11@email.com,Online
+C1316,Amanda Walker,a.walker68@email.com,In store
+C1317,Jose Woodard,j.woodard42@email.com,Online
+C1318,Tabitha Brooks,t.brooks73@email.com,In store
+C1319,Lisa Eaton,l.eaton92@email.com,Online
+C1320,Suzanne Willis,s.willis59@email.com,Online
+C1321,Donna Patrick,d.patrick31@email.com,App
+C1322,Bonnie Huang,b.huang74@email.com,Online
+C1323,Tyler Barker,t.barker14@email.com,App
+C1324,Raymond Jones,r.jones35@email.com,App
+C1325,Eric Fuller,e.fuller55@email.com,App
+C1326,Whitney Hutchinson,w.hutchinson50@email.com,In store
+C1327,Sandra Wright,s.wright27@email.com,Online
+C1328,Cody Jones,c.jones97@email.com,App
+C1329,Christopher Mitchell,c.mitchell83@email.com,App
+C1330,Cameron Shelton,c.shelton42@email.com,App
+C1331,Joseph Griffin,j.griffin17@email.com,App
+C1332,Allen Myers,a.myers35@email.com,App
+C1333,Jessica Chen,j.chen66@email.com,App
+C1334,Laura Jones,l.jones30@email.com,In store
+C1335,Alicia Hicks,a.hicks14@email.com,In store
+C1336,Mark Cook,m.cook91@email.com,In store
+C1337,Carl Powers,c.powers70@email.com,Online
+C1338,Jocelyn Davis,j.davis46@email.com,In store
+C1339,Alice Lee,a.lee75@email.com,Online
+C1340,Christopher Merritt,c.merritt22@email.com,In store
+C1341,Leah Diaz,l.diaz49@email.com,Online
+C1342,Renee Johnson,r.johnson93@email.com,Online
+C1343,Brandon Mendez,b.mendez84@email.com,Online
+C1344,Kathleen Gray,k.gray34@email.com,Online
+C1345,Lindsey Meyer,l.meyer19@email.com,App
+C1346,Jennifer Mcclure,j.mcclure52@email.com,In store
+C1347,John Roberts,j.roberts37@email.com,App
+C1348,Eric Smith,e.smith50@email.com,In store
+C1349,Elizabeth Ward,e.ward14@email.com,In store
+C1350,Chad Herman,c.herman20@email.com,In store
+C1351,Michael Miller,m.miller73@email.com,In store
+C1352,Chad Martinez,c.martinez43@email.com,In store
+C1353,Connie Cervantes,c.cervantes47@email.com,App
+C1354,Aaron Mckay,a.mckay19@email.com,App
+C1355,Todd Mcneil,t.mcneil27@email.com,App
+C1356,Shawn Mccarthy,s.mccarthy21@email.com,App
+C1357,Kayla Harvey,k.harvey20@email.com,Online
+C1358,Emily Rodriguez,e.rodriguez36@email.com,In store
+C1359,Mike Smith,m.smith83@email.com,In store
+C1360,Theresa Rodriguez,t.rodriguez54@email.com,App
+C1361,Julia Turner,j.turner34@email.com,In store
+C1362,John Richards,j.richards73@email.com,Online
+C1363,Robert Wise,r.wise37@email.com,In store
+C1364,Teresa Myers,t.myers13@email.com,In store
+C1365,John Taylor,j.taylor95@email.com,In store
+C1366,Joe Anderson,j.anderson14@email.com,In store
+C1367,Justin Evans,j.evans35@email.com,In store
+C1368,Melissa Miller,m.miller26@email.com,In store
+C1369,Kimberly Valencia,k.valencia19@email.com,Online
+C1370,David Wilson,d.wilson64@email.com,Online
+C1371,David Campbell,d.campbell36@email.com,In store
+C1372,Christina Smith,c.smith88@email.com,In store
+C1373,Shawn Robinson,s.robinson95@email.com,Online
+C1374,Troy Thompson,t.thompson17@email.com,App
+C1375,Monica Simpson,m.simpson74@email.com,App
+C1376,Travis Torres,t.torres69@email.com,App
+C1377,David Washington,d.washington52@email.com,In store
+C1378,Susan Hill,s.hill19@email.com,Online
+C1379,Brandon Phillips,b.phillips84@email.com,App
+C1380,Victoria Costa,v.costa16@email.com,In store
+C1381,Tammy Rubio,t.rubio84@email.com,In store
+C1382,Arthur Flores,a.flores96@email.com,App
+C1383,Samantha Delgado,s.delgado91@email.com,Online
+C1384,Matthew Wise,m.wise46@email.com,App
+C1385,Justin Marquez,j.marquez53@email.com,In store
+C1386,Amy Patrick,a.patrick15@email.com,Online
+C1387,Cheryl Sanchez,c.sanchez52@email.com,In store
+C1388,Stephanie Pineda,s.pineda84@email.com,Online
+C1389,Meghan Ferguson,m.ferguson74@email.com,App
+C1390,Joseph George,j.george44@email.com,Online
+C1391,Jennifer Watkins,j.watkins12@email.com,App
+C1392,Theresa Reid,t.reid70@email.com,Online
+C1393,Ryan Hernandez,r.hernandez75@email.com,App
+C1394,Shelly Bridges,s.bridges69@email.com,App
+C1395,Michael Rhodes,m.rhodes95@email.com,Online
+C1396,Samuel Waters,s.waters64@email.com,App
+C1397,Jennifer Baker,j.baker95@email.com,App
+C1398,Daniel Orozco,d.orozco49@email.com,App
+C1399,Amanda Collins,a.collins88@email.com,In store
+C1400,Bryce Taylor,b.taylor10@email.com,In store
+C1401,David Zimmerman,d.zimmerman92@email.com,Online
+C1402,Rickey Gray,r.gray48@email.com,App
+C1403,Eric Cortez,e.cortez84@email.com,Online
+C1404,Aaron Shelton,a.shelton29@email.com,Online
+C1405,Jennifer Steele,j.steele24@email.com,In store
+C1406,Alexander Hammond,a.hammond73@email.com,App
+C1407,Martin Benton,m.benton34@email.com,In store
+C1408,Lisa Whitehead,l.whitehead76@email.com,Online
+C1409,Charlene Evans,c.evans35@email.com,In store
+C1410,Jason Adams,j.adams15@email.com,Online
+C1411,Stephen Burns,s.burns41@email.com,App
+C1412,Brittany Wilcox,b.wilcox86@email.com,In store
+C1413,Tracey Novak,t.novak55@email.com,In store
+C1414,John Patterson,j.patterson13@email.com,Online
+C1415,Jonathan Richardson,j.richardson37@email.com,App
+C1416,Susan Smith,s.smith25@email.com,Online
+C1417,Andre Lewis,a.lewis48@email.com,In store
+C1418,Emma Carpenter,e.carpenter39@email.com,App
+C1419,Jessica Foster,j.foster66@email.com,App
+C1420,Sandra Vega,s.vega51@email.com,Online
+C1421,Amanda Nelson,a.nelson84@email.com,Online
+C1422,Jennifer Jenkins,j.jenkins13@email.com,App
+C1423,Victoria Lopez,v.lopez70@email.com,Online
+C1424,Adam Valdez,a.valdez61@email.com,App
+C1425,Timothy Gill,t.gill40@email.com,In store
+C1426,Kevin Thomas,k.thomas70@email.com,In store
+C1427,Regina Perez,r.perez67@email.com,App
+C1428,Troy Garner,t.garner40@email.com,In store
+C1429,Victoria Shepherd,v.shepherd85@email.com,Online
+C1430,Patricia Schultz,p.schultz93@email.com,Online
+C1431,Gabriel Lopez,g.lopez65@email.com,App
+C1432,Linda Smith,l.smith70@email.com,App
+C1433,Claudia Gross,c.gross90@email.com,In store
+C1434,Benjamin Carroll,b.carroll20@email.com,In store
+C1435,Amy Brown,a.brown54@email.com,In store
+C1436,Rachel Reyes,r.reyes57@email.com,Online
+C1437,Vanessa Moore,v.moore37@email.com,In store
+C1438,Thomas Mccall,t.mccall18@email.com,App
+C1439,Jon Rodriguez,j.rodriguez47@email.com,In store
+C1440,Eric Jones,e.jones34@email.com,App
+C1441,Kevin Foster,k.foster11@email.com,Online
+C1442,Jeffrey Galvan,j.galvan39@email.com,In store
+C1443,Tiffany Morris,t.morris11@email.com,App
+C1444,Hannah Warner,h.warner92@email.com,In store
+C1445,Justin Long,j.long58@email.com,In store
+C1446,Denise Hines,d.hines17@email.com,In store
+C1447,Paige Alexander,p.alexander32@email.com,In store
+C1448,Jennifer Stanley,j.stanley81@email.com,In store
+C1449,April Mckenzie,a.mckenzie25@email.com,In store
+C1450,Linda Proctor,l.proctor20@email.com,Online
+C1451,Christopher Christian,c.christian22@email.com,App
+C1452,Gabriel Horn,g.horn91@email.com,App
+C1453,Peter Collins,p.collins52@email.com,In store
+C1454,Melissa Scott,m.scott39@email.com,App
+C1455,Jason Clark,j.clark38@email.com,In store
+C1456,William Rogers,w.rogers75@email.com,App
+C1457,Jennifer Cabrera,j.cabrera14@email.com,App
+C1458,Leslie Abbott,l.abbott14@email.com,In store
+C1459,Diamond Austin,d.austin58@email.com,Online
+C1460,Shannon George,s.george80@email.com,Online
+C1461,Tony Edwards,t.edwards37@email.com,Online
+C1462,Bryan Gamble,b.gamble23@email.com,Online
+C1463,Susan Smith,s.smith66@email.com,In store
+C1464,Jonathon Nguyen,j.nguyen34@email.com,Online
+C1465,Sarah Saunders,s.saunders14@email.com,In store
+C1466,Stephanie Odom,s.odom94@email.com,Online
+C1467,Phillip Schmidt,p.schmidt48@email.com,App
+C1468,Douglas Wells,d.wells66@email.com,Online
+C1469,David Richardson,d.richardson93@email.com,App
+C1470,Stacey Phelps,s.phelps78@email.com,Online
+C1471,Carolyn Juarez,c.juarez34@email.com,Online
+C1472,Linda Malone,l.malone11@email.com,In store
+C1473,Debbie Jones,d.jones11@email.com,App
+C1474,Jason Johnson,j.johnson68@email.com,App
+C1475,Amy Schwartz,a.schwartz76@email.com,Online
+C1476,Kristen Nolan,k.nolan45@email.com,In store
+C1477,Frank Schwartz,f.schwartz65@email.com,App
+C1478,Henry Campos,h.campos91@email.com,Online
+C1479,Stephanie Gonzalez,s.gonzalez32@email.com,In store
+C1480,Tyler Bryant,t.bryant87@email.com,App
+C1481,John Thornton,j.thornton53@email.com,In store
+C1482,Corey Lozano,c.lozano97@email.com,Online
+C1483,Nancy Lopez,n.lopez21@email.com,In store
+C1484,Emily Taylor,e.taylor36@email.com,App
+C1485,Andrea Frank,a.frank15@email.com,In store
+C1486,James Howard,j.howard30@email.com,In store
+C1487,Debbie Werner,d.werner79@email.com,In store
+C1488,Kathleen Hansen,k.hansen53@email.com,App
+C1489,Valerie Warner,v.warner39@email.com,Online
+C1490,Sheila Avery,s.avery84@email.com,In store
+C1491,Latasha Hood,l.hood19@email.com,In store
+C1492,Michele Boyle,m.boyle89@email.com,App
+C1493,Michael Whitaker,m.whitaker83@email.com,App
+C1494,Gregory Hester,g.hester23@email.com,App
+C1495,Justin Berg,j.berg77@email.com,In store
+C1496,John Morgan,j.morgan93@email.com,App
+C1497,Thomas Jones,t.jones16@email.com,App
+C1498,John White,j.white46@email.com,In store
+C1499,Austin Elliott,a.elliott35@email.com,App
+C1500,Amber Bradshaw,a.bradshaw34@email.com,App
+C1501,James Ballard,j.ballard53@email.com,App
+C1502,Justin Campbell,j.campbell38@email.com,Online
+C1503,Brandon Johnson,b.johnson66@email.com,In store
+C1504,Sara Nunez,s.nunez31@email.com,Online
+C1505,Austin Davis,a.davis15@email.com,App
+C1506,James Santiago,j.santiago92@email.com,Online
+C1507,Julie Williams,j.williams58@email.com,In store
+C1508,Beth Peters,b.peters32@email.com,In store
+C1509,Jeffrey Mata,j.mata30@email.com,Online
+C1510,Bryan Davis,b.davis17@email.com,Online
+C1511,Wesley Roberson,w.roberson23@email.com,App
+C1512,Sylvia Wilkins,s.wilkins60@email.com,Online
+C1513,Eugene Rodriguez,e.rodriguez27@email.com,Online
+C1514,Amanda Wagner,a.wagner56@email.com,Online
+C1515,Cassidy Lee,c.lee91@email.com,In store
+C1516,Jamie Valdez,j.valdez98@email.com,In store
+C1517,Jesse Wilson,j.wilson46@email.com,In store
+C1518,Sarah Murray,s.murray39@email.com,Online
+C1519,Eric Lucero,e.lucero84@email.com,App
+C1520,Tammy Hernandez,t.hernandez36@email.com,Online
+C1521,Chelsea Mccoy,c.mccoy41@email.com,In store
+C1522,Lorraine Butler,l.butler61@email.com,Online
+C1523,Charles Taylor,c.taylor84@email.com,App
+C1524,John Bowman,j.bowman53@email.com,App
+C1525,Sheryl Moore,s.moore57@email.com,App
+C1526,Dillon Lambert,d.lambert80@email.com,In store
+C1527,Rachel Scott,r.scott23@email.com,In store
+C1528,Deborah Barton,d.barton63@email.com,Online
+C1529,Steve Mendoza,s.mendoza52@email.com,In store
+C1530,Carmen Bryant,c.bryant31@email.com,In store
+C1531,Eduardo Hunter,e.hunter27@email.com,Online
+C1532,Edward Reyes,e.reyes95@email.com,In store
+C1533,Alexandra Donovan,a.donovan27@email.com,In store
+C1534,Christopher Moore,c.moore94@email.com,App
+C1535,James Clark,j.clark82@email.com,Online
+C1536,Elizabeth Robinson,e.robinson67@email.com,Online
+C1537,David Campos,d.campos23@email.com,In store
+C1538,Keith Smith,k.smith52@email.com,In store
+C1539,Misty Mcclain,m.mcclain43@email.com,In store
+C1540,Katrina Thornton,k.thornton80@email.com,App
+C1541,Diane Warren,d.warren21@email.com,App
+C1542,Ashley Ross,a.ross16@email.com,In store
+C1543,Abigail Lewis,a.lewis96@email.com,In store
+C1544,Denise Mckenzie,d.mckenzie37@email.com,Online
+C1545,Charles Hernandez,c.hernandez34@email.com,Online
+C1546,Calvin Baker,c.baker60@email.com,In store
+C1547,Karina Ball,k.ball43@email.com,In store
+C1548,Sara Collins,s.collins55@email.com,App
+C1549,James Collins,j.collins41@email.com,In store
+C1550,Adam Gardner,a.gardner21@email.com,In store
+C1551,Fred Harrison,f.harrison28@email.com,App
+C1552,Daisy Mcmillan,d.mcmillan47@email.com,In store
+C1553,James Green,j.green19@email.com,Online
+C1554,James Cruz,j.cruz50@email.com,App
+C1555,Paula Johnson,p.johnson80@email.com,App
+C1556,Darlene Smith,d.smith83@email.com,App
+C1557,Chase Smith,c.smith47@email.com,App
+C1558,Allen Montgomery,a.montgomery41@email.com,App
+C1559,Kimberly Medina,k.medina80@email.com,Online
+C1560,Jeffrey Davis,j.davis95@email.com,Online
+C1561,Kristin Carroll,k.carroll85@email.com,Online
+C1562,Evelyn Garcia,e.garcia55@email.com,Online
+C1563,Megan May,m.may41@email.com,Online
+C1564,Zachary Camacho,z.camacho79@email.com,In store
+C1565,Michael Blair,m.blair22@email.com,Online
+C1566,Andrew Garcia,a.garcia15@email.com,Online
+C1567,Timothy King,t.king21@email.com,In store
+C1568,Jennifer Coleman,j.coleman93@email.com,App
+C1569,Denise Kim,d.kim76@email.com,App
+C1570,Joseph Manning,j.manning72@email.com,Online
+C1571,Andrew Garner,a.garner30@email.com,In store
+C1572,Nicholas Owens,n.owens20@email.com,App
+C1573,Matthew Lloyd,m.lloyd31@email.com,Online
+C1574,Heather Obrien,h.obrien97@email.com,App
+C1575,Patrick Wolf,p.wolf58@email.com,In store
+C1576,Elaine Bond,e.bond74@email.com,App
+C1577,Miguel Gomez,m.gomez73@email.com,Online
+C1578,Kim Johnson,k.johnson26@email.com,App
+C1579,Matthew Gregory,m.gregory76@email.com,In store
+C1580,Michael Moore,m.moore19@email.com,Online
+C1581,Aaron Choi,a.choi41@email.com,App
+C1582,Margaret Norris,m.norris35@email.com,App
+C1583,Joshua Robbins,j.robbins83@email.com,In store
+C1584,Thomas Alexander,t.alexander65@email.com,Online
+C1585,Ann Burns,a.burns18@email.com,In store
+C1586,Elizabeth Byrd,e.byrd16@email.com,In store
+C1587,Jeffrey Brown,j.brown21@email.com,In store
+C1588,Jennifer Jefferson,j.jefferson22@email.com,In store
+C1589,Taylor Arroyo,t.arroyo19@email.com,Online
+C1590,Megan Baker,m.baker49@email.com,In store
+C1591,Richard Wagner,r.wagner44@email.com,In store
+C1592,John Snyder,j.snyder25@email.com,In store
+C1593,Calvin Hall,c.hall62@email.com,App
+C1594,Jessica Singh,j.singh64@email.com,Online
+C1595,Julie Williams,j.williams85@email.com,App
+C1596,Clinton Schultz,c.schultz26@email.com,App
+C1597,Patricia Dean,p.dean30@email.com,In store
+C1598,Katherine Smith,k.smith26@email.com,App
+C1599,Pamela King,p.king85@email.com,In store
+C1600,Lisa Krause,l.krause82@email.com,App
+C1601,Craig Miller,c.miller32@email.com,App
+C1602,Belinda Rice,b.rice59@email.com,In store
+C1603,Melissa Morrison,m.morrison25@email.com,Online
+C1604,Jessica Young,j.young22@email.com,Online
+C1605,Ryan Hanson,r.hanson89@email.com,App
+C1606,Chris Kaufman,c.kaufman41@email.com,In store
+C1607,Andre Juarez,a.juarez96@email.com,In store
+C1608,Anthony Becker,a.becker52@email.com,Online
+C1609,Natalie Baker,n.baker75@email.com,App
+C1610,Joshua Stone,j.stone42@email.com,App
+C1611,Tiffany Dyer,t.dyer44@email.com,Online
+C1612,Brittany Manning,b.manning21@email.com,In store
+C1613,Sonya Sanchez,s.sanchez53@email.com,Online
+C1614,Travis Davis,t.davis20@email.com,Online
+C1615,Matthew Wise,m.wise98@email.com,Online
+C1616,James Johnson,j.johnson68@email.com,App
+C1617,Mitchell Higgins,m.higgins43@email.com,App
+C1618,Shelly Howell,s.howell30@email.com,Online
+C1619,Cassandra Mclaughlin,c.mclaughlin81@email.com,Online
+C1620,Emily Fernandez,e.fernandez61@email.com,Online
+C1621,Rachel Esparza,r.esparza28@email.com,Online
+C1622,Barbara Beasley,b.beasley41@email.com,Online
+C1623,Robert Baker,r.baker37@email.com,Online
+C1624,Jennifer Salazar,j.salazar83@email.com,In store
+C1625,Laura Morales,l.morales42@email.com,Online
+C1626,Leonard Dillon,l.dillon96@email.com,Online
+C1627,Michael Cooper,m.cooper62@email.com,Online
+C1628,Sean Cain,s.cain45@email.com,In store
+C1629,Shannon Flores,s.flores61@email.com,In store
+C1630,Erik Bryan,e.bryan49@email.com,App
+C1631,Frank Baker,f.baker95@email.com,Online
+C1632,Vanessa Powell,v.powell89@email.com,Online
+C1633,Sherry Miller,s.miller96@email.com,In store
+C1634,Nicholas Davenport,n.davenport87@email.com,In store
+C1635,Anthony Ashley,a.ashley30@email.com,In store
+C1636,Olivia Mckenzie,o.mckenzie79@email.com,In store
+C1637,Sarah Lopez,s.lopez40@email.com,In store
+C1638,Michael Maldonado,m.maldonado37@email.com,App
+C1639,April Bass,a.bass96@email.com,Online
+C1640,Patricia Coffey,p.coffey79@email.com,Online
+C1641,Natalie Williams,n.williams71@email.com,App
+C1642,Randy Moore,r.moore57@email.com,App
+C1643,Allen West,a.west66@email.com,App
+C1644,Thomas Klein,t.klein22@email.com,App
+C1645,Tara Williams,t.williams50@email.com,App
+C1646,Katherine Aguirre,k.aguirre32@email.com,App
+C1647,Kristi Montes,k.montes74@email.com,Online
+C1648,Karen Ward,k.ward40@email.com,In store
+C1649,Jesus Wilson,j.wilson45@email.com,Online
+C1650,Jessica Ramsey,j.ramsey46@email.com,In store
+C1651,Roger Perez,r.perez37@email.com,In store
+C1652,Kathryn Anderson,k.anderson56@email.com,App
+C1653,Darin Jones,d.jones89@email.com,Online
+C1654,Ryan Johnson,r.johnson41@email.com,Online
+C1655,Angela Williams,a.williams56@email.com,App
+C1656,Martha Riley,m.riley10@email.com,App
+C1657,Steve Wilson,s.wilson67@email.com,App
+C1658,Martha Garner,m.garner91@email.com,App
+C1659,Erika Lindsey,e.lindsey86@email.com,App
+C1660,Robert Williams,r.williams73@email.com,Online
+C1661,Crystal Richards,c.richards72@email.com,Online
+C1662,Tonya Acosta,t.acosta77@email.com,App
+C1663,Jose Copeland,j.copeland25@email.com,Online
+C1664,Paul Shepard,p.shepard71@email.com,Online
+C1665,Anthony Smith,a.smith16@email.com,In store
+C1666,Shelley Glover,s.glover65@email.com,Online
+C1667,Vincent Johnson,v.johnson51@email.com,In store
+C1668,Toni Woods,t.woods79@email.com,Online
+C1669,Sean Hahn,s.hahn52@email.com,In store
+C1670,Todd Friedman,t.friedman84@email.com,App
+C1671,Tracy Cooper,t.cooper60@email.com,In store
+C1672,Daniel Soto,d.soto76@email.com,In store
+C1673,Wesley Buchanan,w.buchanan89@email.com,App
+C1674,Michael Griffin,m.griffin59@email.com,App
+C1675,Amber Brown,a.brown81@email.com,Online
+C1676,Gerald Marquez,g.marquez89@email.com,App
+C1677,Derrick Berry,d.berry63@email.com,Online
+C1678,Sara Estes,s.estes38@email.com,App
+C1679,Anthony Ross,a.ross68@email.com,App
+C1680,Dawn Payne,d.payne33@email.com,App
+C1681,Brian Garcia,b.garcia41@email.com,Online
+C1682,Jennifer Mullen,j.mullen63@email.com,In store
+C1683,Angela Davis,a.davis65@email.com,App
+C1684,Michael Boyd,m.boyd80@email.com,App
+C1685,Steven Jackson,s.jackson62@email.com,Online
+C1686,Shane Keith,s.keith10@email.com,Online
+C1687,Courtney White,c.white70@email.com,Online
+C1688,Matthew Sims,m.sims43@email.com,In store
+C1689,Cindy Velasquez,c.velasquez70@email.com,App
+C1690,Katelyn Silva,k.silva17@email.com,Online
+C1691,Samantha Porter,s.porter62@email.com,Online
+C1692,Jason Hughes,j.hughes40@email.com,In store
+C1693,James Robertson,j.robertson35@email.com,App
+C1694,Heather Brown,h.brown72@email.com,Online
+C1695,Steven Smith,s.smith66@email.com,In store
+C1696,Ashlee Burgess,a.burgess35@email.com,In store
+C1697,Molly Berger,m.berger98@email.com,In store
+C1698,Jennifer Allen,j.allen36@email.com,App
+C1699,Kelsey Diaz,k.diaz65@email.com,In store
+C1700,Sara Richardson,s.richardson19@email.com,Online
+C1701,Kyle Wall,k.wall91@email.com,In store
+C1702,Mark Reed,m.reed54@email.com,Online
+C1703,Johnny Watson,j.watson26@email.com,Online
+C1704,Jennifer Torres,j.torres67@email.com,App
+C1705,Jaclyn Santos,j.santos91@email.com,App
+C1706,Sydney Andrews,s.andrews17@email.com,Online
+C1707,Evan Hawkins,e.hawkins25@email.com,In store
+C1708,David Jones,d.jones52@email.com,In store
+C1709,Pamela Robertson,p.robertson92@email.com,Online
+C1710,Karen Smith,k.smith55@email.com,In store
+C1711,Carmen Allen,c.allen24@email.com,In store
+C1712,Jasmine Stanley,j.stanley30@email.com,App
+C1713,Vicki Cummings,v.cummings15@email.com,App
+C1714,Kelly Davis,k.davis92@email.com,App
+C1715,Sherry Lawson,s.lawson20@email.com,App
+C1716,Abigail Garcia,a.garcia48@email.com,Online
+C1717,Kent Sampson,k.sampson60@email.com,In store
+C1718,Tiffany Smith,t.smith58@email.com,In store
+C1719,Christy Lopez,c.lopez97@email.com,App
+C1720,Adam Reeves,a.reeves74@email.com,Online
+C1721,Barry Hahn,b.hahn26@email.com,App
+C1722,Timothy Wyatt,t.wyatt23@email.com,Online
+C1723,Tiffany Saunders,t.saunders34@email.com,In store
+C1724,Kenneth Taylor,k.taylor95@email.com,App
+C1725,Summer Munoz,s.munoz16@email.com,App
+C1726,Lori Hernandez,l.hernandez83@email.com,Online
+C1727,Ruth Hunter,r.hunter44@email.com,Online
+C1728,Rachel Harris,r.harris45@email.com,Online
+C1729,Karen Williams,k.williams61@email.com,In store
+C1730,Andrew Smith,a.smith51@email.com,App
+C1731,Joshua Palmer,j.palmer24@email.com,In store
+C1732,Juan Hunter,j.hunter91@email.com,In store
+C1733,Bryan Murillo,b.murillo77@email.com,App
+C1734,Mikayla Kelly,m.kelly19@email.com,In store
+C1735,Austin Garcia,a.garcia65@email.com,App
+C1736,Christopher Bowen,c.bowen28@email.com,Online
+C1737,Elijah Myers,e.myers51@email.com,Online
+C1738,Bethany Brown,b.brown50@email.com,Online
+C1739,William Bradford,w.bradford29@email.com,App
+C1740,Beverly Farmer,b.farmer21@email.com,Online
+C1741,Bobby Roth,b.roth73@email.com,Online
+C1742,Edward Burns,e.burns47@email.com,Online
+C1743,Jonathan Black,j.black67@email.com,Online
+C1744,Juan Schmidt,j.schmidt94@email.com,Online
+C1745,Danielle Snyder,d.snyder20@email.com,Online
+C1746,Jennifer Jordan,j.jordan73@email.com,App
+C1747,Sandra Morales,s.morales92@email.com,Online
+C1748,Charles Bush,c.bush77@email.com,In store
+C1749,Stephanie Taylor,s.taylor14@email.com,Online
+C1750,Russell Wheeler,r.wheeler45@email.com,Online
+C1751,Gary Robinson,g.robinson16@email.com,In store
+C1752,Taylor Marsh,t.marsh69@email.com,App
+C1753,Evan Green,e.green93@email.com,In store
+C1754,Taylor Robinson,t.robinson65@email.com,In store
+C1755,Christopher Bradshaw,c.bradshaw90@email.com,Online
+C1756,Amy Ward,a.ward88@email.com,App
+C1757,Joshua Sullivan,j.sullivan83@email.com,Online
+C1758,Thomas Jones,t.jones53@email.com,App
+C1759,Dawn Jones,d.jones16@email.com,App
+C1760,Joseph Leblanc,j.leblanc60@email.com,In store
+C1761,Nicole Wright,n.wright37@email.com,Online
+C1762,Hannah Thornton,h.thornton36@email.com,In store
+C1763,Patrick Osborn,p.osborn64@email.com,App
+C1764,Ian Miller,i.miller47@email.com,Online
+C1765,Andrea Allen,a.allen38@email.com,In store
+C1766,Laurie Romero,l.romero57@email.com,In store
+C1767,Chris Holland,c.holland55@email.com,In store
+C1768,Kelly Boyer,k.boyer12@email.com,Online
+C1769,Eric Harris,e.harris96@email.com,In store
+C1770,Bradley Hall,b.hall96@email.com,In store
+C1771,Jill Castillo,j.castillo59@email.com,In store
+C1772,Catherine Vega,c.vega57@email.com,Online
+C1773,Marcus Barker,m.barker40@email.com,Online
+C1774,Jennifer Evans,j.evans16@email.com,In store
+C1775,Emily Collins,e.collins45@email.com,App
+C1776,Jeremy Shields,j.shields95@email.com,In store
+C1777,Terri Mitchell,t.mitchell70@email.com,App
+C1778,Caleb Ford,c.ford86@email.com,Online
+C1779,Teresa Carr,t.carr37@email.com,In store
+C1780,Christine Smith,c.smith87@email.com,In store
+C1781,Christine Huffman,c.huffman78@email.com,App
+C1782,Jeffrey Anderson,j.anderson77@email.com,Online
+C1783,Tiffany Mitchell,t.mitchell27@email.com,App
+C1784,Mackenzie Rodriguez,m.rodriguez92@email.com,Online
+C1785,Jacqueline Wilson,j.wilson12@email.com,In store
+C1786,Nicole Mcclain,n.mcclain96@email.com,Online
+C1787,Christine Johnson,c.johnson57@email.com,Online
+C1788,Pamela Hobbs,p.hobbs74@email.com,Online
+C1789,Jennifer Moreno,j.moreno15@email.com,App
+C1790,Timothy Washington,t.washington90@email.com,App
+C1791,Denise Owens,d.owens61@email.com,In store
+C1792,Jane Romero,j.romero11@email.com,App
+C1793,Debra Madden,d.madden32@email.com,App
+C1794,Richard Jennings,r.jennings79@email.com,Online
+C1795,Craig Ward,c.ward70@email.com,App
+C1796,Bradley Montes,b.montes31@email.com,App
+C1797,Terrence Saunders,t.saunders14@email.com,Online
+C1798,Kristina Hernandez,k.hernandez76@email.com,App
+C1799,Edward Hill,e.hill37@email.com,In store
+C1800,Christopher Soto,c.soto31@email.com,In store
+C1801,Tiffany Smith,t.smith54@email.com,App
+C1802,Jennifer Harris,j.harris60@email.com,App
+C1803,Amanda Downs,a.downs90@email.com,Online
+C1804,Sharon Rodgers,s.rodgers60@email.com,Online
+C1805,Justin Miller,j.miller39@email.com,App
+C1806,Jennifer Martinez,j.martinez50@email.com,In store
+C1807,Eric Page,e.page34@email.com,App
+C1808,Connor Sullivan,c.sullivan86@email.com,Online
+C1809,Patrick White,p.white48@email.com,App
+C1810,Kimberly Johnson,k.johnson95@email.com,In store
+C1811,William Murphy,w.murphy55@email.com,Online
+C1812,Brenda Johnson,b.johnson42@email.com,In store
+C1813,Jerry Richards,j.richards31@email.com,App
+C1814,Cheryl Rios,c.rios72@email.com,App
+C1815,Alexander Martinez,a.martinez30@email.com,In store
+C1816,Donna Parker,d.parker44@email.com,Online
+C1817,John Rodriguez,j.rodriguez56@email.com,Online
+C1818,Michelle Lee,m.lee19@email.com,App
+C1819,Matthew Benton,m.benton37@email.com,In store
+C1820,Sandra Torres,s.torres50@email.com,In store
+C1821,Nathan Smith,n.smith70@email.com,App
+C1822,Nathan Stewart,n.stewart17@email.com,In store
+C1823,Leah Jackson,l.jackson67@email.com,In store
+C1824,Monica Stevens,m.stevens70@email.com,In store
+C1825,Mario Price,m.price28@email.com,Online
+C1826,Brian Larson,b.larson87@email.com,Online
+C1827,Danielle Bush,d.bush45@email.com,App
+C1828,Jacob Lawson,j.lawson43@email.com,Online
+C1829,Ronald Reid,r.reid41@email.com,Online
+C1830,Ashley Jacobs,a.jacobs42@email.com,App
+C1831,Lindsey Herring,l.herring23@email.com,In store
+C1832,Natalie Bryant,n.bryant37@email.com,Online
+C1833,Gerald Hart,g.hart48@email.com,Online
+C1834,Richard Williams,r.williams40@email.com,App
+C1835,Brent Smith,b.smith13@email.com,Online
+C1836,Charles Walton,c.walton18@email.com,Online
+C1837,Kimberly Le,k.le33@email.com,Online
+C1838,Tiffany Smith,t.smith74@email.com,App
+C1839,Tracy Smith,t.smith26@email.com,In store
+C1840,Kenneth Meyers,k.meyers59@email.com,Online
+C1841,Laurie Cline,l.cline54@email.com,App
+C1842,Michael Cunningham,m.cunningham68@email.com,Online
+C1843,John Ross,j.ross20@email.com,App
+C1844,Danny Jennings,d.jennings93@email.com,App
+C1845,Linda Martinez,l.martinez74@email.com,In store
+C1846,David Hamilton,d.hamilton67@email.com,App
+C1847,Jordan Smith,j.smith53@email.com,Online
+C1848,Felicia Chapman,f.chapman86@email.com,Online
+C1849,Sheila Oneal,s.oneal85@email.com,In store
+C1850,George Tucker,g.tucker61@email.com,Online
+C1851,Joshua Travis,j.travis72@email.com,Online
+C1852,Jessica Clarke,j.clarke36@email.com,Online
+C1853,David Graham,d.graham21@email.com,Online
+C1854,Jared Webster,j.webster65@email.com,In store
+C1855,Donald Brennan,d.brennan49@email.com,In store
+C1856,David Price,d.price41@email.com,In store
+C1857,Edward Russell,e.russell21@email.com,In store
+C1858,Latasha Carlson,l.carlson35@email.com,Online
+C1859,Shannon Lopez,s.lopez43@email.com,In store
+C1860,Jeffrey Lowery,j.lowery33@email.com,App
+C1861,Christina Sutton,c.sutton48@email.com,In store
+C1862,Emily Lee,e.lee38@email.com,App
+C1863,Tina Sawyer,t.sawyer72@email.com,App
+C1864,Gary Rice,g.rice28@email.com,App
+C1865,Robert Martinez,r.martinez19@email.com,App
+C1866,Brian Lee,b.lee57@email.com,Online
+C1867,Sandra Stephens,s.stephens10@email.com,App
+C1868,Sara Hall,s.hall10@email.com,In store
+C1869,Michael Griffin,m.griffin77@email.com,App
+C1870,Brian Vaughan,b.vaughan93@email.com,In store
+C1871,Jason Newton,j.newton37@email.com,App
+C1872,Megan Koch,m.koch54@email.com,App
+C1873,Elizabeth Sullivan,e.sullivan33@email.com,Online
+C1874,Julie Torres,j.torres32@email.com,In store
+C1875,Emily Perry,e.perry87@email.com,Online
+C1876,Andrew Smith,a.smith24@email.com,App
+C1877,David Anderson,d.anderson13@email.com,Online
+C1878,Katherine Krause,k.krause40@email.com,App
+C1879,Jeff Boyd,j.boyd80@email.com,In store
+C1880,Ellen Mckinney,e.mckinney78@email.com,Online
+C1881,Kelly Miller,k.miller32@email.com,App
+C1882,Nicole Lewis,n.lewis25@email.com,In store
+C1883,Brian Brown,b.brown40@email.com,In store
+C1884,Rebecca Fernandez,r.fernandez54@email.com,Online
+C1885,Thomas Brown,t.brown16@email.com,In store
+C1886,William Ferguson,w.ferguson73@email.com,Online
+C1887,Thomas Williams,t.williams15@email.com,In store
+C1888,Curtis Miller,c.miller43@email.com,In store
+C1889,Samantha Manning,s.manning35@email.com,In store
+C1890,Brian Armstrong,b.armstrong67@email.com,Online
+C1891,Jasmine Carter,j.carter63@email.com,In store
+C1892,Scott Collins,s.collins57@email.com,Online
+C1893,Audrey Hart,a.hart86@email.com,Online
+C1894,Rhonda Davis,r.davis31@email.com,App
+C1895,James Gillespie,j.gillespie14@email.com,In store
+C1896,Michelle Larsen,m.larsen54@email.com,Online
+C1897,Eric Mccoy,e.mccoy49@email.com,App
+C1898,Jessica Campbell,j.campbell61@email.com,App
+C1899,Tracy Smith,t.smith60@email.com,In store
+C1900,Adam Hubbard,a.hubbard30@email.com,App
+C1901,Brittany Carroll,b.carroll53@email.com,App
+C1902,Daniel Mills,d.mills66@email.com,In store
+C1903,Aaron Hamilton,a.hamilton48@email.com,Online
+C1904,Tristan Harper,t.harper38@email.com,Online
+C1905,Daniel Wilkerson,d.wilkerson77@email.com,App
+C1906,Jennifer Gonzalez,j.gonzalez82@email.com,In store
+C1907,Chelsea Williams,c.williams65@email.com,App
+C1908,Stephanie Lester,s.lester98@email.com,In store
+C1909,Jonathan Smith,j.smith91@email.com,In store
+C1910,Melissa Robinson,m.robinson50@email.com,In store
+C1911,Yvette Mason,y.mason75@email.com,App
+C1912,Ian Fuentes,i.fuentes68@email.com,App
+C1913,Ann Garcia,a.garcia13@email.com,In store
+C1914,Debra Thornton,d.thornton63@email.com,Online
+C1915,Jessica Gilbert,j.gilbert76@email.com,Online
+C1916,Randy Chavez,r.chavez87@email.com,In store
+C1917,Sierra Jones,s.jones77@email.com,Online
+C1918,Jessica Davis,j.davis92@email.com,App
+C1919,John Brooks,j.brooks53@email.com,App
+C1920,Anthony Phillips,a.phillips71@email.com,App
+C1921,Margaret Davis,m.davis38@email.com,App
+C1922,Melanie Mcgrath,m.mcgrath92@email.com,Online
+C1923,Christopher Lowe,c.lowe56@email.com,In store
+C1924,Rick Smith,r.smith16@email.com,In store
+C1925,Tina Browning,t.browning80@email.com,Online
+C1926,Jason Graves,j.graves66@email.com,Online
+C1927,Christopher Nichols,c.nichols82@email.com,Online
+C1928,Benjamin Garner,b.garner36@email.com,Online
+C1929,Regina Miller,r.miller96@email.com,In store
+C1930,Christopher Taylor,c.taylor24@email.com,Online
+C1931,Janice Gardner,j.gardner82@email.com,Online
+C1932,James Larson,j.larson57@email.com,App
+C1933,Monica Pratt,m.pratt49@email.com,Online
+C1934,Michael Brown,m.brown32@email.com,In store
+C1935,Sarah Hickman,s.hickman41@email.com,App
+C1936,John Barker,j.barker58@email.com,In store
+C1937,Angelica Walker,a.walker25@email.com,In store
+C1938,Michael Phelps,m.phelps46@email.com,In store
+C1939,Melanie Simmons,m.simmons44@email.com,In store
+C1940,Mary Thomas,m.thomas17@email.com,In store
+C1941,Ronald Harris,r.harris56@email.com,Online
+C1942,Rachel Willis,r.willis98@email.com,Online
+C1943,William Lambert,w.lambert19@email.com,In store
+C1944,Christine Meyer,c.meyer77@email.com,Online
+C1945,Derrick Stanley,d.stanley84@email.com,App
+C1946,Ashley Rogers,a.rogers88@email.com,App
+C1947,Stephanie Newman,s.newman12@email.com,App
+C1948,Daniel Mullins,d.mullins41@email.com,App
+C1949,Diana Russell,d.russell29@email.com,Online
+C1950,Kimberly Bennett,k.bennett51@email.com,In store
+C1951,Ashley Summers,a.summers69@email.com,App
+C1952,Melissa Contreras,m.contreras33@email.com,In store
+C1953,Tracey Hoffman,t.hoffman13@email.com,App
+C1954,Anthony Robinson,a.robinson97@email.com,In store
+C1955,Christopher Vasquez,c.vasquez23@email.com,App
+C1956,Alex Jackson,a.jackson19@email.com,In store
+C1957,Amanda Howard,a.howard45@email.com,Online
+C1958,Michael Schultz,m.schultz57@email.com,Online
+C1959,Margaret Rice,m.rice98@email.com,In store
+C1960,Jane Lynch,j.lynch18@email.com,Online
+C1961,Charles Velasquez,c.velasquez78@email.com,App
+C1962,Valerie Strickland,v.strickland49@email.com,App
+C1963,Morgan Moore,m.moore92@email.com,Online
+C1964,David Davis,d.davis95@email.com,Online
+C1965,Dana Miller,d.miller24@email.com,In store
+C1966,Gabriel White,g.white60@email.com,In store
+C1967,Stephanie Garner,s.garner49@email.com,In store
+C1968,Nancy Bradley,n.bradley78@email.com,In store
+C1969,Victor Zimmerman,v.zimmerman52@email.com,App
+C1970,Amber Lambert,a.lambert11@email.com,Online
+C1971,Kenneth Beard,k.beard84@email.com,In store
+C1972,Robert Sullivan,r.sullivan42@email.com,In store
+C1973,Andrew Roberson,a.roberson20@email.com,Online
+C1974,Karen Hull,k.hull63@email.com,App
+C1975,Stephanie Alvarez,s.alvarez29@email.com,In store
+C1976,Krista Russell,k.russell33@email.com,Online
+C1977,Michele Ferrell,m.ferrell40@email.com,Online
+C1978,John Malone,j.malone53@email.com,Online
+C1979,Laura Hogan,l.hogan28@email.com,Online
+C1980,Marcus Coleman,m.coleman33@email.com,Online
+C1981,Tina Gordon,t.gordon21@email.com,Online
+C1982,Sarah Brown,s.brown94@email.com,App
+C1983,Nicole Mccullough,n.mccullough34@email.com,App
+C1984,Misty Sexton,m.sexton23@email.com,In store
+C1985,Andrew Christensen,a.christensen34@email.com,App
+C1986,Anne Miller,a.miller68@email.com,In store
+C1987,Nicholas Silva,n.silva21@email.com,Online
+C1988,Michelle Reynolds,m.reynolds21@email.com,Online
+C1989,Johnny Yu,j.yu57@email.com,Online
+C1990,Candice Ross,c.ross28@email.com,App
+C1991,Michelle Washington,m.washington62@email.com,App
+C1992,John Hudson,j.hudson36@email.com,App
+C1993,Jessica Garza,j.garza86@email.com,Online
+C1994,James Clark,j.clark60@email.com,In store
+C1995,Tiffany Thompson,t.thompson28@email.com,App
+C1996,Cole Green,c.green44@email.com,App
+C1997,Kelly Christensen,k.christensen25@email.com,App
+C1998,Jody Ray,j.ray78@email.com,App
+C1999,Steven Sullivan,s.sullivan94@email.com,In store
+C2000,Christopher Wilkinson,c.wilkinson63@email.com,In store
+C2001,Lisa Elliott,l.elliott98@email.com,Online
+C2002,Victor Garcia,v.garcia28@email.com,Online
+C2003,Kelly Harris,k.harris69@email.com,App
+C2004,Danielle Thomas,d.thomas33@email.com,In store
+C2005,Bonnie Craig,b.craig68@email.com,Online
+C2006,Michael Anderson,m.anderson95@email.com,App
+C2007,Susan Green,s.green17@email.com,Online
+C2008,Brittany Barnett,b.barnett89@email.com,Online
+C2009,Elizabeth Johnson,e.johnson90@email.com,In store
+C2010,Nathaniel Adams,n.adams50@email.com,App
+C2011,Erin Stokes,e.stokes73@email.com,In store
+C2012,Kimberly Hunt,k.hunt63@email.com,In store
+C2013,Tiffany Hawkins,t.hawkins61@email.com,Online
+C2014,Susan Harris,s.harris30@email.com,Online
+C2015,Mark Poole,m.poole74@email.com,In store
+C2016,Karen Thomas,k.thomas17@email.com,In store
+C2017,Sharon Patterson,s.patterson93@email.com,In store
+C2018,Nathaniel Williams,n.williams48@email.com,In store
+C2019,Kristina Watson,k.watson69@email.com,In store
+C2020,Jason Taylor,j.taylor68@email.com,Online
+C2021,Joshua James,j.james72@email.com,Online
+C2022,Jennifer Boone,j.boone16@email.com,App
+C2023,Samuel Robinson,s.robinson51@email.com,In store
+C2024,Corey Matthews,c.matthews97@email.com,In store
+C2025,Cathy Larson,c.larson36@email.com,Online
+C2026,Robert Holden,r.holden11@email.com,In store
+C2027,Terry Craig,t.craig75@email.com,Online
+C2028,Veronica Barber,v.barber68@email.com,Online
+C2029,Kevin Raymond,k.raymond16@email.com,In store
+C2030,Alexander Smith,a.smith77@email.com,In store
+C2031,Jeremy Morales,j.morales83@email.com,App
+C2032,Christopher Reed,c.reed33@email.com,In store
+C2033,Frances Clark,f.clark19@email.com,In store
+C2034,Amy Calhoun,a.calhoun36@email.com,App
+C2035,Ashley Henry,a.henry94@email.com,App
+C2036,Kristopher Moreno,k.moreno14@email.com,In store
+C2037,Cynthia Velazquez,c.velazquez95@email.com,App
+C2038,Elizabeth Jimenez,e.jimenez45@email.com,Online
+C2039,Kevin Gibson,k.gibson43@email.com,Online
+C2040,Sarah Bradley,s.bradley15@email.com,Online
+C2041,Regina Rivera,r.rivera68@email.com,In store
+C2042,Steven Vasquez,s.vasquez46@email.com,Online
+C2043,Elaine Davis,e.davis92@email.com,Online
+C2044,James West,j.west94@email.com,App
+C2045,Stephanie Sims,s.sims90@email.com,In store
+C2046,Charles Ortiz,c.ortiz66@email.com,In store
+C2047,Jill Flores,j.flores61@email.com,In store
+C2048,Gary Rowe,g.rowe57@email.com,App
+C2049,Molly Warren,m.warren20@email.com,In store
+C2050,Brooke English,b.english39@email.com,Online
+C2051,David Durham,d.durham86@email.com,App
+C2052,Cindy Harris,c.harris83@email.com,App
+C2053,Brooke Mitchell,b.mitchell21@email.com,Online
+C2054,John Robinson,j.robinson49@email.com,Online
+C2055,Vincent Griffith,v.griffith73@email.com,App
+C2056,David Young,d.young96@email.com,App
+C2057,Renee Vasquez,r.vasquez61@email.com,App
+C2058,Christine Lee,c.lee72@email.com,In store
+C2059,Ronald Salazar,r.salazar64@email.com,App
+C2060,Michael Novak,m.novak40@email.com,App
+C2061,Beverly French,b.french26@email.com,Online
+C2062,Brenda Hammond,b.hammond75@email.com,App
+C2063,Marcus Smith,m.smith41@email.com,In store
+C2064,James Chapman,j.chapman31@email.com,App
+C2065,Erica Fletcher,e.fletcher62@email.com,Online
+C2066,Lauren Munoz,l.munoz48@email.com,In store
+C2067,James Davidson,j.davidson96@email.com,Online
+C2068,Jessica Henry,j.henry16@email.com,Online
+C2069,Angela Nolan,a.nolan87@email.com,Online
+C2070,Emily Hudson,e.hudson95@email.com,In store
+C2071,Kevin Barber,k.barber85@email.com,In store
+C2072,John Lucas,j.lucas40@email.com,App
+C2073,Zachary Cole,z.cole18@email.com,In store
+C2074,Elizabeth Floyd,e.floyd25@email.com,App
+C2075,Timothy Walters,t.walters22@email.com,Online
+C2076,Sara Wong,s.wong69@email.com,App
+C2077,Erica Guerra,e.guerra69@email.com,In store
+C2078,Diana Mendez,d.mendez62@email.com,In store
+C2079,Timothy Griffin,t.griffin41@email.com,Online
+C2080,Virginia Reed,v.reed64@email.com,App
+C2081,Grace Jennings,g.jennings34@email.com,In store
+C2082,Sheri Greene,s.greene35@email.com,In store
+C2083,John Mcdaniel,j.mcdaniel38@email.com,Online
+C2084,Darlene Peters,d.peters45@email.com,In store
+C2085,Jason Peterson,j.peterson93@email.com,App
+C2086,Tabitha Turner,t.turner68@email.com,App
+C2087,Marc Ruiz,m.ruiz43@email.com,Online
+C2088,Andrew Larson,a.larson40@email.com,App
+C2089,Adam Cummings,a.cummings41@email.com,Online
+C2090,Eric Harrington,e.harrington66@email.com,In store
+C2091,Latoya Sharp,l.sharp55@email.com,App
+C2092,Lisa Roberts,l.roberts97@email.com,Online
+C2093,Ryan Lee,r.lee95@email.com,Online
+C2094,Kerri Hunter,k.hunter45@email.com,Online
+C2095,Diana Summers,d.summers59@email.com,Online
+C2096,Timothy Kramer,t.kramer16@email.com,App
+C2097,Jason Barrett,j.barrett89@email.com,In store
+C2098,Carl Schwartz,c.schwartz55@email.com,In store
+C2099,Richard Moore,r.moore94@email.com,Online
+C2100,Kylie Lane,k.lane91@email.com,In store
+C2101,Sally Hayes,s.hayes11@email.com,Online
+C2102,Mary Parsons,m.parsons88@email.com,In store
+C2103,Morgan Goodwin,m.goodwin97@email.com,In store
+C2104,Timothy Adams,t.adams18@email.com,App
+C2105,Ryan Martin,r.martin46@email.com,Online
+C2106,Christian Alexander,c.alexander52@email.com,In store
+C2107,Leslie Hensley,l.hensley85@email.com,App
+C2108,Mary Oliver,m.oliver80@email.com,Online
+C2109,Debra Campbell,d.campbell44@email.com,Online
+C2110,Rachel Austin,r.austin35@email.com,In store
+C2111,Jennifer Estrada,j.estrada71@email.com,In store
+C2112,Michael Santos,m.santos10@email.com,In store
+C2113,Carlos Miller,c.miller86@email.com,Online
+C2114,Sergio Wall,s.wall69@email.com,Online
+C2115,Steven Fuentes,s.fuentes31@email.com,In store
+C2116,Michael Logan,m.logan78@email.com,In store
+C2117,John Goodman,j.goodman20@email.com,Online
+C2118,Charles Burns,c.burns28@email.com,App
+C2119,Todd Carpenter,t.carpenter39@email.com,Online
+C2120,Dominic Jones,d.jones65@email.com,In store
+C2121,Jennifer Bell,j.bell16@email.com,Online
+C2122,Erika Smith,e.smith18@email.com,Online
+C2123,Cory Young,c.young79@email.com,In store
+C2124,Tracy Davis,t.davis31@email.com,In store
+C2125,Debra Strickland,d.strickland88@email.com,In store
+C2126,Denise Evans,d.evans79@email.com,App
+C2127,Rita Evans,r.evans90@email.com,In store
+C2128,Kathleen Baker,k.baker41@email.com,In store
+C2129,Laurie Cuevas,l.cuevas76@email.com,In store
+C2130,Deborah Cole,d.cole25@email.com,Online
+C2131,Traci Gallegos,t.gallegos76@email.com,In store
+C2132,Melissa Smith,m.smith60@email.com,Online
+C2133,Melinda White,m.white87@email.com,Online
+C2134,Barbara Douglas,b.douglas58@email.com,In store
+C2135,Kristine Moore,k.moore36@email.com,In store
+C2136,Stacy Hall,s.hall48@email.com,In store
+C2137,Christopher Miles,c.miles45@email.com,Online
+C2138,Paul Oliver,p.oliver13@email.com,In store
+C2139,Barbara Miller,b.miller11@email.com,App
+C2140,Stephen Crawford,s.crawford37@email.com,In store
+C2141,Alicia Moses,a.moses35@email.com,In store
+C2142,Shelly Martinez,s.martinez82@email.com,Online
+C2143,Benjamin Stewart,b.stewart18@email.com,In store
+C2144,Jennifer Fields,j.fields65@email.com,In store
+C2145,Johnathan Cordova,j.cordova54@email.com,In store
+C2146,Anita Melendez,a.melendez23@email.com,Online
+C2147,Crystal Moses,c.moses26@email.com,In store
+C2148,Linda Daniel,l.daniel40@email.com,Online
+C2149,Angela Levy,a.levy58@email.com,App
+C2150,Jeffrey Carter,j.carter84@email.com,In store
+C2151,Christopher Colon,c.colon27@email.com,App
+C2152,Danielle Dixon,d.dixon20@email.com,In store
+C2153,Laura Davis,l.davis98@email.com,Online
+C2154,Chelsea Henry,c.henry64@email.com,Online
+C2155,Devon Carroll,d.carroll12@email.com,Online
+C2156,Rebekah Walker,r.walker98@email.com,In store
+C2157,Daniel Patel,d.patel77@email.com,In store
+C2158,Brett Freeman,b.freeman11@email.com,App
+C2159,Marvin Stewart,m.stewart98@email.com,Online
+C2160,Whitney Medina,w.medina31@email.com,In store
+C2161,Theodore Jackson,t.jackson78@email.com,In store
+C2162,Jill Bowers,j.bowers30@email.com,Online
+C2163,Jamie Flores,j.flores96@email.com,App
+C2164,Robin Shelton,r.shelton64@email.com,Online
+C2165,Stephanie Leon,s.leon79@email.com,Online
+C2166,Kara Miller,k.miller68@email.com,Online
+C2167,Dylan Espinoza,d.espinoza83@email.com,In store
+C2168,Melinda Andrade,m.andrade78@email.com,App
+C2169,Brianna Charles,b.charles10@email.com,In store
+C2170,Joseph Holt,j.holt57@email.com,In store
+C2171,Amy Rodriguez,a.rodriguez40@email.com,Online
+C2172,Paul Ramsey,p.ramsey56@email.com,App
+C2173,Megan Munoz,m.munoz84@email.com,App
+C2174,Derek Smith,d.smith16@email.com,In store
+C2175,Victoria Oliver,v.oliver97@email.com,In store
+C2176,Elizabeth Lewis,e.lewis40@email.com,In store
+C2177,Wayne Tyler,w.tyler56@email.com,In store
+C2178,Melissa Flores,m.flores77@email.com,App
+C2179,Yvonne Johnson,y.johnson84@email.com,Online
+C2180,Melissa Crawford,m.crawford67@email.com,App
+C2181,Dawn Hunter,d.hunter87@email.com,In store
+C2182,Cynthia Jones,c.jones80@email.com,In store
+C2183,Brandon Rivera,b.rivera51@email.com,Online
+C2184,Bridget Williams,b.williams87@email.com,Online
+C2185,Alexander Campos,a.campos73@email.com,In store
+C2186,Nicole Sanchez,n.sanchez19@email.com,In store
+C2187,Michael Knight,m.knight41@email.com,In store
+C2188,Joseph Ingram,j.ingram93@email.com,In store
+C2189,Kenneth Martin,k.martin55@email.com,App
+C2190,Jesus Wilson,j.wilson65@email.com,In store
+C2191,Adam Pitts,a.pitts53@email.com,Online
+C2192,David Oneill,d.oneill47@email.com,In store
+C2193,Louis Johnson,l.johnson59@email.com,Online
+C2194,Stephen Brady,s.brady41@email.com,In store
+C2195,Dylan Brown,d.brown62@email.com,In store
+C2196,Kayla Meadows,k.meadows10@email.com,App
+C2197,Harry Adams,h.adams39@email.com,In store
+C2198,Karen Hill,k.hill42@email.com,Online
+C2199,Travis Andrews,t.andrews51@email.com,Online
+C2200,Christie Jones,c.jones51@email.com,App
+C2201,Heather Rodriguez,h.rodriguez70@email.com,App
+C2202,Tina Benson,t.benson51@email.com,In store
+C2203,Kim Burton,k.burton36@email.com,App
+C2204,Christina Walker,c.walker38@email.com,App
+C2205,Jamie Dawson,j.dawson91@email.com,App
+C2206,Jessica Lowery,j.lowery37@email.com,Online
+C2207,Ronald Nelson,r.nelson19@email.com,App
+C2208,Daniel Cook,d.cook25@email.com,In store
+C2209,Jeff Sanchez,j.sanchez91@email.com,In store
+C2210,Justin Greene,j.greene94@email.com,App
+C2211,Brady Morse,b.morse29@email.com,App
+C2212,David Chaney,d.chaney92@email.com,App
+C2213,Benjamin Irwin,b.irwin54@email.com,In store
+C2214,Matthew Lee,m.lee33@email.com,Online
+C2215,Sharon Noble,s.noble37@email.com,In store
+C2216,Anthony King,a.king47@email.com,Online
+C2217,Alicia Conway,a.conway34@email.com,In store
+C2218,Elizabeth Williams,e.williams90@email.com,In store
+C2219,Johnathan Williams,j.williams26@email.com,Online
+C2220,Dakota Jackson,d.jackson82@email.com,Online
+C2221,Robert Schneider,r.schneider92@email.com,In store
+C2222,Jeffrey Harrell,j.harrell72@email.com,App
+C2223,Bruce Wagner,b.wagner92@email.com,In store
+C2224,Brandon Vasquez,b.vasquez77@email.com,Online
+C2225,Debra Perez,d.perez20@email.com,In store
+C2226,Daniel Garcia,d.garcia72@email.com,In store
+C2227,Michael Morris,m.morris39@email.com,Online
+C2228,Judith Harvey,j.harvey98@email.com,App
+C2229,Dylan Smith,d.smith30@email.com,App
+C2230,Rachel Holland,r.holland70@email.com,Online
+C2231,Joseph Vang,j.vang39@email.com,Online
+C2232,Jennifer Smith,j.smith69@email.com,Online
+C2233,David Becker,d.becker71@email.com,In store
+C2234,Courtney George,c.george54@email.com,In store
+C2235,Steven Sanders,s.sanders68@email.com,App
+C2236,Dana Flores,d.flores31@email.com,Online
+C2237,William Griffin,w.griffin33@email.com,App
+C2238,Paul Holmes,p.holmes60@email.com,In store
+C2239,Jacob Christian,j.christian24@email.com,Online
+C2240,Edward Bradley,e.bradley29@email.com,In store
+C2241,Kristen Sawyer,k.sawyer52@email.com,In store
+C2242,Mark Steele,m.steele72@email.com,App
+C2243,Kimberly Glass,k.glass88@email.com,Online
+C2244,Anthony Serrano,a.serrano97@email.com,In store
+C2245,Annette Durham,a.durham32@email.com,Online
+C2246,Matthew Robinson,m.robinson42@email.com,In store
+C2247,Jessica Price,j.price34@email.com,App
+C2248,Haley Wood,h.wood44@email.com,In store
+C2249,Donna Paul,d.paul52@email.com,Online
+C2250,Karl Martin,k.martin71@email.com,App
+C2251,Nicholas Martinez,n.martinez37@email.com,App
+C2252,Emily Acosta,e.acosta41@email.com,Online
+C2253,Tanner Barnett,t.barnett69@email.com,Online
+C2254,Dylan Williams,d.williams60@email.com,App
+C2255,Anne Richmond,a.richmond86@email.com,In store
+C2256,Elizabeth Martinez,e.martinez77@email.com,App
+C2257,Larry Whitehead,l.whitehead47@email.com,App
+C2258,Diane Huang,d.huang63@email.com,Online
+C2259,Jason Solis,j.solis39@email.com,Online
+C2260,Angela Fernandez,a.fernandez84@email.com,In store
+C2261,Daniel Thompson,d.thompson63@email.com,App
+C2262,Kimberly Morales,k.morales77@email.com,Online
+C2263,Maria Price,m.price81@email.com,App
+C2264,Eddie Wright,e.wright65@email.com,In store
+C2265,Jeremy Pugh,j.pugh89@email.com,In store
+C2266,Kristina Phillips,k.phillips87@email.com,App
+C2267,Jeffrey Romero,j.romero34@email.com,App
+C2268,Todd Smith,t.smith31@email.com,App
+C2269,Jonathan Holland,j.holland56@email.com,Online
+C2270,Jonathan Garner,j.garner64@email.com,In store
+C2271,Tony Hall,t.hall63@email.com,Online
+C2272,Amy Fernandez,a.fernandez73@email.com,Online
+C2273,Kyle Rios,k.rios48@email.com,App
+C2274,Mackenzie Lewis,m.lewis17@email.com,App
+C2275,David Cabrera,d.cabrera36@email.com,In store
+C2276,Phyllis Martinez,p.martinez42@email.com,In store
+C2277,Tyler Sweeney,t.sweeney19@email.com,Online
+C2278,Lisa Hodges,l.hodges25@email.com,App
+C2279,Evan Pierce,e.pierce28@email.com,In store
+C2280,Jill Bates,j.bates24@email.com,Online
+C2281,Tanner Yoder,t.yoder92@email.com,App
+C2282,William Carpenter,w.carpenter47@email.com,Online
+C2283,Chelsea Morrison,c.morrison58@email.com,In store
+C2284,Katherine Walsh,k.walsh93@email.com,In store
+C2285,James Parker,j.parker88@email.com,App
+C2286,Eric Day,e.day64@email.com,Online
+C2287,Andrew Bass,a.bass52@email.com,Online
+C2288,Jimmy Moore,j.moore93@email.com,App
+C2289,April Brown,a.brown81@email.com,Online
+C2290,Richard Simon,r.simon19@email.com,Online
+C2291,Jamie Garcia,j.garcia58@email.com,In store
+C2292,Laura Smith,l.smith24@email.com,App
+C2293,Katelyn Schwartz,k.schwartz85@email.com,In store
+C2294,Gary Meyer,g.meyer36@email.com,Online
+C2295,Travis Gonzalez,t.gonzalez33@email.com,Online
+C2296,Scott Murphy,s.murphy18@email.com,Online
+C2297,Edward Lowery,e.lowery71@email.com,App
+C2298,Whitney Perez,w.perez79@email.com,Online
+C2299,Dawn Brooks,d.brooks87@email.com,Online
+C2300,Ariel Powers,a.powers69@email.com,App
+C2301,Vincent Knapp,v.knapp57@email.com,App
+C2302,Suzanne Mendoza,s.mendoza96@email.com,In store
+C2303,Jacqueline Lutz,j.lutz88@email.com,Online
+C2304,Maria Gibson,m.gibson63@email.com,Online
+C2305,Jeffrey Vazquez,j.vazquez28@email.com,In store
+C2306,Raymond Ward,r.ward82@email.com,App
+C2307,Elizabeth West,e.west33@email.com,In store
+C2308,Anna Tran,a.tran89@email.com,In store
+C2309,Tyler Bailey,t.bailey19@email.com,In store
+C2310,Mary Collins,m.collins30@email.com,App
+C2311,Lisa Lee,l.lee24@email.com,In store
+C2312,Emma Anderson,e.anderson80@email.com,App
+C2313,Joshua Patterson,j.patterson47@email.com,Online
+C2314,Kristin Delgado,k.delgado31@email.com,App
+C2315,Amy Cooke,a.cooke13@email.com,App
+C2316,Michelle Kaiser,m.kaiser16@email.com,In store
+C2317,Daniel Chambers,d.chambers92@email.com,Online
+C2318,Christine Hubbard,c.hubbard71@email.com,Online
+C2319,John Johnson,j.johnson75@email.com,App
+C2320,Tina Kelley,t.kelley22@email.com,Online
+C2321,John Davis,j.davis12@email.com,In store
+C2322,Angela Whitney,a.whitney55@email.com,App
+C2323,Michael Smith,m.smith12@email.com,Online
+C2324,Gabriel Chambers,g.chambers12@email.com,In store
+C2325,Amy Phillips,a.phillips38@email.com,App
+C2326,Jacob Allen,j.allen29@email.com,In store
+C2327,Robert Howard,r.howard29@email.com,App
+C2328,Harold James,h.james53@email.com,Online
+C2329,Vicki Payne,v.payne98@email.com,Online
+C2330,Elizabeth Young,e.young52@email.com,In store
+C2331,Brittany Evans,b.evans97@email.com,In store
+C2332,James Colon,j.colon28@email.com,Online
+C2333,Gabriel Leblanc,g.leblanc73@email.com,Online
+C2334,Joshua Brooks,j.brooks50@email.com,App
+C2335,Megan Cruz,m.cruz23@email.com,App
+C2336,Robert Duffy,r.duffy96@email.com,In store
+C2337,Susan Travis,s.travis13@email.com,In store
+C2338,Heather Ward,h.ward11@email.com,Online
+C2339,Jason Valencia,j.valencia98@email.com,App
+C2340,Katherine Warren,k.warren96@email.com,In store
+C2341,Adam Hernandez,a.hernandez98@email.com,App
+C2342,Jade Pineda,j.pineda61@email.com,App
+C2343,Sarah Ellis,s.ellis87@email.com,In store
+C2344,Mark Nelson,m.nelson24@email.com,Online
+C2345,Kayla Bryant,k.bryant40@email.com,Online
+C2346,Robin Lopez,r.lopez43@email.com,In store
+C2347,Michael Shaw,m.shaw53@email.com,App
+C2348,Jordan Ross,j.ross86@email.com,In store
+C2349,Cynthia Reyes,c.reyes27@email.com,In store
+C2350,Jacqueline Evans,j.evans54@email.com,App
+C2351,Monica Garcia,m.garcia35@email.com,Online
+C2352,Brian Garrison,b.garrison84@email.com,In store
+C2353,Mark Dunn,m.dunn67@email.com,In store
+C2354,Shannon Cervantes,s.cervantes59@email.com,App
+C2355,Lisa Collins,l.collins81@email.com,App
+C2356,Timothy Torres,t.torres40@email.com,App
+C2357,Aaron Osborn,a.osborn45@email.com,App
+C2358,Marc Gomez,m.gomez30@email.com,App
+C2359,Vanessa Phillips,v.phillips63@email.com,App
+C2360,Marvin Hancock,m.hancock11@email.com,Online
+C2361,William Russell,w.russell79@email.com,Online
+C2362,Anne Jones,a.jones47@email.com,In store
+C2363,Zachary Gibbs,z.gibbs59@email.com,Online
+C2364,Justin Rowland,j.rowland96@email.com,Online
+C2365,Ricky Garcia,r.garcia10@email.com,In store
+C2366,Alan Beltran,a.beltran66@email.com,App
+C2367,Jeremy Fox,j.fox38@email.com,Online
+C2368,Andrew Villegas,a.villegas43@email.com,App
+C2369,Travis Reynolds,t.reynolds90@email.com,Online
+C2370,Aaron Wagner,a.wagner63@email.com,Online
+C2371,Johnny Sanchez,j.sanchez27@email.com,In store
+C2372,Christopher Mata,c.mata38@email.com,App
+C2373,Shannon Faulkner,s.faulkner88@email.com,App
+C2374,Brenda Williamson,b.williamson62@email.com,App
+C2375,Trevor Bass,t.bass61@email.com,In store
+C2376,Sarah Reese,s.reese23@email.com,App
+C2377,Bryan Gill,b.gill27@email.com,Online
+C2378,Brooke Allen,b.allen95@email.com,Online
+C2379,Cole Anderson,c.anderson64@email.com,App
+C2380,Veronica King,v.king76@email.com,In store
+C2381,Cristian Davis,c.davis62@email.com,Online
+C2382,William Sherman,w.sherman53@email.com,In store
+C2383,Julia Higgins,j.higgins71@email.com,Online
+C2384,Joyce Doyle,j.doyle56@email.com,App
+C2385,Lisa Rocha,l.rocha98@email.com,App
+C2386,Wesley Tucker,w.tucker92@email.com,App
+C2387,Jose Raymond,j.raymond58@email.com,Online
+C2388,Antonio Beard,a.beard38@email.com,App
+C2389,Roger Stokes,r.stokes23@email.com,App
+C2390,Michael Farley,m.farley60@email.com,App
+C2391,Kerry Decker,k.decker23@email.com,App
+C2392,Maria Rose,m.rose17@email.com,In store
+C2393,Richard Taylor,r.taylor74@email.com,In store
+C2394,Patrick Galloway,p.galloway77@email.com,In store
+C2395,William Bradley,w.bradley92@email.com,Online
+C2396,Teresa George,t.george76@email.com,App
+C2397,Anna Williamson,a.williamson41@email.com,In store
+C2398,Leah Bennett,l.bennett94@email.com,Online
+C2399,Claudia Johnson,c.johnson29@email.com,Online
+C2400,Robert Rodriguez,r.rodriguez38@email.com,In store
+C2401,Anthony Hale,a.hale98@email.com,App
+C2402,Theresa West,t.west98@email.com,App
+C2403,Eric Baker,e.baker30@email.com,In store
+C2404,Jerome Tucker,j.tucker41@email.com,Online
+C2405,Brian Rivera,b.rivera31@email.com,Online
+C2406,Jasmine Riddle,j.riddle92@email.com,Online
+C2407,Bradley Hopkins,b.hopkins57@email.com,Online
+C2408,Cynthia Anderson,c.anderson14@email.com,In store
+C2409,Mark Vega,m.vega10@email.com,App
+C2410,Jason Chen,j.chen86@email.com,App
+C2411,Whitney Thompson,w.thompson90@email.com,Online
+C2412,Audrey Salazar,a.salazar97@email.com,App
+C2413,Christina Mcclain,c.mcclain61@email.com,In store
+C2414,Stacey Potts,s.potts94@email.com,Online
+C2415,Joan Hawkins,j.hawkins65@email.com,Online
+C2416,Garrett Miranda,g.miranda33@email.com,Online
+C2417,Luke Hill,l.hill43@email.com,App
+C2418,Amy Scott,a.scott60@email.com,App
+C2419,Jennifer Whitaker,j.whitaker13@email.com,In store
+C2420,Bryan Mcdonald,b.mcdonald23@email.com,In store
+C2421,Megan Palmer,m.palmer42@email.com,Online
+C2422,Jesus Reid,j.reid72@email.com,Online
+C2423,Nathan Li,n.li83@email.com,Online
+C2424,Michael Mcgrath,m.mcgrath95@email.com,Online
+C2425,Jacob Stark,j.stark80@email.com,App
+C2426,Cheryl Dunn,c.dunn59@email.com,In store
+C2427,Tyler Burton,t.burton79@email.com,App
+C2428,Emily Hood,e.hood36@email.com,Online
+C2429,Susan Taylor,s.taylor41@email.com,App
+C2430,Bruce Price,b.price31@email.com,In store
+C2431,Andrew Johnson,a.johnson78@email.com,In store
+C2432,Jacob Dorsey,j.dorsey65@email.com,Online
+C2433,Jennifer Knight,j.knight40@email.com,In store
+C2434,Michael Williams,m.williams68@email.com,Online
+C2435,Matthew Martinez,m.martinez52@email.com,Online
+C2436,Candace Robbins,c.robbins27@email.com,App
+C2437,Nicole Hughes,n.hughes38@email.com,In store
+C2438,Vincent Moon,v.moon60@email.com,In store
+C2439,Nicole Davis,n.davis70@email.com,App
+C2440,Alexandria Cook,a.cook25@email.com,Online
+C2441,Christopher Garza,c.garza94@email.com,Online
+C2442,Melissa Mason,m.mason69@email.com,In store
+C2443,Michael Collins,m.collins37@email.com,App
+C2444,Gregory Johnson,g.johnson81@email.com,Online
+C2445,Amy Watson,a.watson59@email.com,Online
+C2446,Steven Singh,s.singh49@email.com,Online
+C2447,Dawn Galloway,d.galloway64@email.com,App
+C2448,Alyssa Ibarra,a.ibarra92@email.com,Online
+C2449,Kenneth Richardson,k.richardson80@email.com,In store
+C2450,Christina Lewis,c.lewis14@email.com,In store
+C2451,Christopher Alexander,c.alexander27@email.com,Online
+C2452,Christopher Navarro,c.navarro59@email.com,In store
+C2453,Tiffany Stewart,t.stewart96@email.com,In store
+C2454,Oscar Day,o.day61@email.com,In store
+C2455,William Rodriguez,w.rodriguez73@email.com,App
+C2456,Ashley Jones,a.jones78@email.com,In store
+C2457,Kaitlyn Randall,k.randall39@email.com,App
+C2458,Eric Robinson,e.robinson77@email.com,In store
+C2459,Joanna Garcia,j.garcia31@email.com,App
+C2460,Amber Anderson,a.anderson17@email.com,Online
+C2461,Douglas Stokes,d.stokes46@email.com,App
+C2462,Emily Brown,e.brown65@email.com,In store
+C2463,Alyssa Edwards,a.edwards95@email.com,In store
+C2464,Brooke Barry,b.barry51@email.com,In store
+C2465,Andrew Ramos,a.ramos58@email.com,In store
+C2466,Patricia English,p.english17@email.com,Online
+C2467,Tyler Adams,t.adams95@email.com,In store
+C2468,Karen Johnson,k.johnson63@email.com,In store
+C2469,Mary Barker,m.barker57@email.com,Online
+C2470,Denise Mccullough,d.mccullough37@email.com,In store
+C2471,Jose Adams,j.adams75@email.com,Online
+C2472,Joshua Decker,j.decker90@email.com,App
+C2473,Yolanda Morales,y.morales22@email.com,App
+C2474,Joseph Mcknight,j.mcknight91@email.com,App
+C2475,Nicole Munoz,n.munoz42@email.com,Online
+C2476,David Orr,d.orr62@email.com,App
+C2477,Adrian Brewer,a.brewer45@email.com,In store
+C2478,Kathleen Adams,k.adams78@email.com,App
+C2479,Brian Wong,b.wong43@email.com,In store
+C2480,Bethany Garrett,b.garrett70@email.com,App
+C2481,Jared Gibbs,j.gibbs15@email.com,In store
+C2482,Brian Keller,b.keller62@email.com,App
+C2483,Charles Wiley,c.wiley80@email.com,Online
+C2484,Whitney Parker,w.parker90@email.com,Online
+C2485,James Pham,j.pham45@email.com,Online
+C2486,Keith Osborn,k.osborn15@email.com,App
+C2487,Whitney Palmer,w.palmer75@email.com,Online
+C2488,Adam Johnson,a.johnson36@email.com,App
+C2489,Jennifer Glenn,j.glenn60@email.com,App
+C2490,William Hall,w.hall97@email.com,Online
+C2491,Savannah Wolf,s.wolf98@email.com,App
+C2492,Kathryn Turner,k.turner33@email.com,In store
+C2493,Meagan Riddle,m.riddle85@email.com,Online
+C2494,Nicholas Valdez,n.valdez79@email.com,Online
+C2495,Rebecca Brooks,r.brooks88@email.com,In store
+C2496,Brianna Brown,b.brown63@email.com,App
+C2497,Amanda Robinson,a.robinson87@email.com,In store
+C2498,Jeffrey Humphrey,j.humphrey14@email.com,Online
+C2499,Carolyn Mclaughlin,c.mclaughlin89@email.com,App
+C2500,Joyce Wilson,j.wilson72@email.com,Online
+C2501,Zachary Merritt,z.merritt47@email.com,In store
+C2502,Gregory Weaver,g.weaver40@email.com,In store
+C2503,Samuel Peterson,s.peterson15@email.com,App
+C2504,Betty Christensen,b.christensen79@email.com,In store
+C2505,Jack Pace,j.pace82@email.com,Online
+C2506,Kimberly Douglas,k.douglas19@email.com,App
+C2507,Gregory Martinez,g.martinez49@email.com,Online
+C2508,Gwendolyn Clements,g.clements29@email.com,In store
+C2509,Glenda Moran,g.moran42@email.com,Online
+C2510,Savannah Hamilton,s.hamilton63@email.com,App
+C2511,Bridget Stevens,b.stevens46@email.com,In store
+C2512,Carolyn Livingston,c.livingston93@email.com,In store
+C2513,Ryan Harris,r.harris15@email.com,In store
+C2514,Andrea Elliott,a.elliott59@email.com,App
+C2515,Stephanie Jones,s.jones93@email.com,Online
+C2516,Kimberly Moore,k.moore81@email.com,App
+C2517,Jamie Garner,j.garner88@email.com,Online
+C2518,Allison Turner,a.turner60@email.com,Online
+C2519,Mitchell Hooper,m.hooper70@email.com,Online
+C2520,Robert Singh,r.singh21@email.com,App
+C2521,Ryan Richardson,r.richardson92@email.com,In store
+C2522,Hunter Sanders,h.sanders35@email.com,In store
+C2523,Diana Gould,d.gould24@email.com,Online
+C2524,Maria Campbell,m.campbell86@email.com,In store
+C2525,Michael Jordan,m.jordan74@email.com,In store
+C2526,Debbie Cortez,d.cortez63@email.com,App
+C2527,Heather Powell,h.powell87@email.com,App
+C2528,Jane Blankenship,j.blankenship60@email.com,Online
+C2529,Jamie Sanchez,j.sanchez29@email.com,In store
+C2530,Shirley Elliott,s.elliott20@email.com,App
+C2531,Kyle Harmon,k.harmon61@email.com,In store
+C2532,Christopher Schultz,c.schultz63@email.com,App
+C2533,Bethany Scott,b.scott78@email.com,App
+C2534,Diane Collins,d.collins21@email.com,Online
+C2535,Annette Baker,a.baker30@email.com,Online
+C2536,Richard Hunt,r.hunt78@email.com,App
+C2537,Alyssa Maldonado,a.maldonado85@email.com,In store
+C2538,Rhonda Cole,r.cole45@email.com,In store
+C2539,Alexis Smith,a.smith62@email.com,Online
+C2540,Ryan Bishop,r.bishop28@email.com,App
+C2541,Ashley Collins,a.collins69@email.com,In store
+C2542,Alyssa Davis,a.davis82@email.com,Online
+C2543,Robert Davis,r.davis38@email.com,Online
+C2544,Thomas Peters,t.peters66@email.com,In store
+C2545,Sarah Williams,s.williams49@email.com,Online
+C2546,Crystal Dorsey,c.dorsey84@email.com,App
+C2547,Joshua Harris,j.harris31@email.com,Online
+C2548,Jeanne Miller,j.miller60@email.com,In store
+C2549,Bradley Bailey,b.bailey61@email.com,App
+C2550,Travis Brown,t.brown31@email.com,In store
+C2551,Brooke Barnes,b.barnes71@email.com,App
+C2552,Steven Moreno,s.moreno69@email.com,In store
+C2553,Diane Johnson,d.johnson16@email.com,App
+C2554,John Johnson,j.johnson62@email.com,App
+C2555,Kimberly Anderson,k.anderson13@email.com,In store
+C2556,Jessica Cross,j.cross16@email.com,App
+C2557,Virginia Blankenship,v.blankenship12@email.com,In store
+C2558,Diane Schultz,d.schultz43@email.com,In store
+C2559,Robin Levine,r.levine97@email.com,Online
+C2560,Shelby Lewis,s.lewis47@email.com,Online
+C2561,Adam Martin,a.martin13@email.com,Online
+C2562,Patricia Davis,p.davis98@email.com,In store
+C2563,Paige Murphy,p.murphy70@email.com,App
+C2564,Kenneth Hamilton,k.hamilton74@email.com,In store
+C2565,Shawn Greer,s.greer80@email.com,Online
+C2566,Robert Pacheco,r.pacheco70@email.com,In store
+C2567,Kathleen Bishop,k.bishop15@email.com,App
+C2568,Juan Jackson,j.jackson83@email.com,In store
+C2569,Carlos Cruz,c.cruz76@email.com,App
+C2570,Aaron Love,a.love37@email.com,Online
+C2571,Beth Smith,b.smith36@email.com,In store
+C2572,Kimberly Oneill,k.oneill55@email.com,App
+C2573,Brittany Reilly,b.reilly49@email.com,In store
+C2574,Mark Shaffer,m.shaffer18@email.com,Online
+C2575,Christian Roman,c.roman71@email.com,In store
+C2576,Heather Rogers,h.rogers25@email.com,App
+C2577,Sean Hill,s.hill77@email.com,App
+C2578,Christopher Silva,c.silva44@email.com,App
+C2579,Jamie Oliver,j.oliver92@email.com,Online
+C2580,Brenda Arnold,b.arnold12@email.com,In store
+C2581,Lori Greer,l.greer68@email.com,Online
+C2582,Stephanie Lee,s.lee46@email.com,App
+C2583,John Henson,j.henson96@email.com,App
+C2584,Christine Stewart,c.stewart15@email.com,In store
+C2585,Samantha Campbell,s.campbell78@email.com,In store
+C2586,Heather Cline,h.cline66@email.com,In store
+C2587,Andrew Peterson,a.peterson33@email.com,App
+C2588,Morgan Bray,m.bray84@email.com,App
+C2589,John Austin,j.austin31@email.com,Online
+C2590,Peggy Huffman,p.huffman43@email.com,In store
+C2591,Caitlin Moore,c.moore46@email.com,In store
+C2592,Rebecca Copeland,r.copeland90@email.com,App
+C2593,Kimberly Molina,k.molina88@email.com,In store
+C2594,Jonathan Sanders,j.sanders52@email.com,Online
+C2595,Justin Baker,j.baker24@email.com,In store
+C2596,Melinda Newton,m.newton61@email.com,App
+C2597,Robin Soto,r.soto27@email.com,App
+C2598,Joel Moore,j.moore89@email.com,Online
+C2599,Anthony Lane,a.lane44@email.com,App
+C2600,Amanda Nunez,a.nunez50@email.com,Online
+C2601,Kathryn Snyder,k.snyder71@email.com,In store
+C2602,Raven Williams,r.williams21@email.com,App
+C2603,Carol Singleton,c.singleton37@email.com,Online
+C2604,Lauren Gutierrez,l.gutierrez65@email.com,Online
+C2605,Frank Murray,f.murray27@email.com,In store
+C2606,Thomas Anthony,t.anthony66@email.com,Online
+C2607,John Shaw,j.shaw96@email.com,App
+C2608,Vincent Mendez,v.mendez90@email.com,App
+C2609,Courtney Lee,c.lee54@email.com,Online
+C2610,Colleen Boyd,c.boyd74@email.com,App
+C2611,Alexandra Kelley,a.kelley47@email.com,App
+C2612,Jessica Smith,j.smith24@email.com,In store
+C2613,Stephanie Powell,s.powell30@email.com,App
+C2614,Kimberly Barber,k.barber60@email.com,Online
+C2615,Joseph Bailey,j.bailey95@email.com,Online
+C2616,Jennifer Nash,j.nash44@email.com,In store
+C2617,William Hooper,w.hooper13@email.com,App
+C2618,James Wright,j.wright41@email.com,Online
+C2619,Bailey George,b.george39@email.com,In store
+C2620,David Sparks,d.sparks28@email.com,Online
+C2621,Samantha Bass,s.bass74@email.com,Online
+C2622,Aaron Garcia,a.garcia54@email.com,App
+C2623,Sean Salazar,s.salazar85@email.com,In store
+C2624,Susan Rush,s.rush93@email.com,App
+C2625,James Lane,j.lane75@email.com,App
+C2626,Megan Morris,m.morris93@email.com,Online
+C2627,William Hammond,w.hammond57@email.com,Online
+C2628,Michael Benson,m.benson49@email.com,App
+C2629,Andrea Allen,a.allen62@email.com,App
+C2630,Alexander Marquez,a.marquez77@email.com,App
+C2631,Phillip Duffy,p.duffy45@email.com,Online
+C2632,Brian Hall,b.hall23@email.com,App
+C2633,Anthony Robertson,a.robertson42@email.com,App
+C2634,Morgan Thompson,m.thompson85@email.com,App
+C2635,Michael Hopkins,m.hopkins63@email.com,In store
+C2636,Jeremy Williams,j.williams92@email.com,App
+C2637,Valerie Horn,v.horn70@email.com,In store
+C2638,Allison Fuller,a.fuller51@email.com,In store
+C2639,Jocelyn Watkins,j.watkins27@email.com,In store
+C2640,Kristin Harvey,k.harvey81@email.com,In store
+C2641,Michelle Howard,m.howard95@email.com,In store
+C2642,Rachel Small,r.small57@email.com,App
+C2643,Shelley Stevenson,s.stevenson93@email.com,App
+C2644,Patricia Pierce,p.pierce90@email.com,In store
+C2645,Richard Williams,r.williams19@email.com,In store
+C2646,Thomas Reyes,t.reyes55@email.com,In store
+C2647,Elizabeth Padilla,e.padilla76@email.com,In store
+C2648,Kimberly Costa,k.costa74@email.com,Online
+C2649,Alexander Lane,a.lane25@email.com,In store
+C2650,Sydney Molina,s.molina23@email.com,In store
+C2651,Peter Nelson,p.nelson44@email.com,Online
+C2652,Glenn James,g.james10@email.com,App
+C2653,Austin Barron,a.barron78@email.com,App
+C2654,Emily Mendez,e.mendez97@email.com,App
+C2655,Amy Henderson,a.henderson64@email.com,In store
+C2656,Mary Brown,m.brown76@email.com,Online
+C2657,Larry Davis,l.davis72@email.com,Online
+C2658,Carolyn Curtis,c.curtis65@email.com,In store
+C2659,Regina Graham,r.graham36@email.com,In store
+C2660,Brandon Booker,b.booker76@email.com,Online
+C2661,Natalie King,n.king22@email.com,In store
+C2662,William Smith,w.smith39@email.com,In store
+C2663,Edward Dean,e.dean87@email.com,Online
+C2664,Joshua Horn,j.horn53@email.com,Online
+C2665,Melanie Williams,m.williams18@email.com,Online
+C2666,Kyle Howard,k.howard74@email.com,In store
+C2667,Tamara Bell,t.bell76@email.com,App
+C2668,Tracy Barry,t.barry30@email.com,Online
+C2669,Melissa Taylor,m.taylor39@email.com,In store
+C2670,Tabitha Blackburn,t.blackburn64@email.com,Online
+C2671,Andrea Frederick,a.frederick57@email.com,Online
+C2672,Rickey Wade,r.wade22@email.com,In store
+C2673,Karen Green,k.green52@email.com,App
+C2674,Amber Cole,a.cole83@email.com,In store
+C2675,Donald Edwards,d.edwards46@email.com,In store
+C2676,Amy Zamora,a.zamora44@email.com,App
+C2677,David Jimenez,d.jimenez37@email.com,Online
+C2678,Melissa Patrick,m.patrick66@email.com,App
+C2679,Patrick Banks,p.banks70@email.com,App
+C2680,Angel Butler,a.butler69@email.com,Online
+C2681,Clayton Gonzalez,c.gonzalez88@email.com,App
+C2682,Austin Smith,a.smith33@email.com,Online
+C2683,Jaime Anderson,j.anderson53@email.com,Online
+C2684,Patrick Lawson,p.lawson54@email.com,In store
+C2685,Michele Barber,m.barber69@email.com,In store
+C2686,Michael Orozco,m.orozco34@email.com,Online
+C2687,Lauren Kelly,l.kelly85@email.com,Online
+C2688,Francis Murray,f.murray40@email.com,App
+C2689,Joshua James,j.james11@email.com,App
+C2690,Jeffrey Frederick,j.frederick47@email.com,In store
+C2691,Jordan Williams,j.williams27@email.com,In store
+C2692,Maria Rollins,m.rollins89@email.com,In store
+C2693,Chelsea Padilla,c.padilla43@email.com,App
+C2694,Julie Frederick,j.frederick72@email.com,Online
+C2695,Brittney Boyd,b.boyd56@email.com,Online
+C2696,Tony Ramirez,t.ramirez22@email.com,In store
+C2697,Lisa Wolf,l.wolf61@email.com,App
+C2698,Dawn Kim,d.kim70@email.com,In store
+C2699,Michael Trujillo,m.trujillo12@email.com,Online
+C2700,Edward Hawkins,e.hawkins77@email.com,App
+C2701,Kayla Robinson,k.robinson68@email.com,App
+C2702,Lori Miller,l.miller63@email.com,In store
+C2703,James Shannon,j.shannon11@email.com,Online
+C2704,Sheila Cunningham,s.cunningham69@email.com,App
+C2705,Teresa Moreno,t.moreno24@email.com,App
+C2706,Alex Estes,a.estes47@email.com,Online
+C2707,Courtney Myers,c.myers72@email.com,Online
+C2708,Devin Hammond,d.hammond71@email.com,Online
+C2709,Scott Harris,s.harris27@email.com,App
+C2710,John Hartman,j.hartman38@email.com,App
+C2711,Ashley Hill,a.hill66@email.com,Online
+C2712,Lynn Collins,l.collins33@email.com,Online
+C2713,Linda Chan,l.chan15@email.com,Online
+C2714,John Callahan,j.callahan51@email.com,Online
+C2715,Harold Mann,h.mann31@email.com,In store
+C2716,Randy Nolan,r.nolan96@email.com,Online
+C2717,Hannah Gordon,h.gordon63@email.com,In store
+C2718,James Anderson,j.anderson51@email.com,App
+C2719,Frank Brown,f.brown77@email.com,In store
+C2720,Sandra Thompson,s.thompson65@email.com,In store
+C2721,Joseph Garrison,j.garrison51@email.com,In store
+C2722,Jamie Cox,j.cox63@email.com,App
+C2723,Thomas Berg,t.berg92@email.com,In store
+C2724,John Pierce,j.pierce22@email.com,Online
+C2725,Stephen Mitchell,s.mitchell49@email.com,In store
+C2726,Marcus Newman,m.newman50@email.com,App
+C2727,Katie Duffy,k.duffy64@email.com,App
+C2728,Robert Finley,r.finley88@email.com,In store
+C2729,Kyle Golden,k.golden29@email.com,App
+C2730,John Campbell,j.campbell67@email.com,App
+C2731,Michelle Johnson,m.johnson62@email.com,In store
+C2732,Scott Simpson,s.simpson29@email.com,App
+C2733,Joseph Sawyer,j.sawyer27@email.com,In store
+C2734,Jason Hill,j.hill81@email.com,Online
+C2735,Cheryl Christensen,c.christensen57@email.com,In store
+C2736,Sergio Pennington,s.pennington43@email.com,App
+C2737,Erica Davis,e.davis59@email.com,In store
+C2738,Gary Taylor,g.taylor95@email.com,In store
+C2739,James Cox,j.cox20@email.com,App
+C2740,Brandon Hutchinson,b.hutchinson64@email.com,App
+C2741,Robert Bell,r.bell72@email.com,In store
+C2742,Debbie Santos,d.santos35@email.com,App
+C2743,Benjamin Maldonado,b.maldonado42@email.com,Online
+C2744,Sierra Anderson,s.anderson31@email.com,App
+C2745,Kristin Valdez,k.valdez87@email.com,Online
+C2746,Robert Moore,r.moore72@email.com,In store
+C2747,Melissa Smith,m.smith50@email.com,App
+C2748,Michael Bond,m.bond42@email.com,In store
+C2749,Dustin Allen,d.allen62@email.com,Online
+C2750,Amy Huffman,a.huffman75@email.com,In store
+C2751,John Howe,j.howe80@email.com,App
+C2752,Johnathan Trujillo,j.trujillo40@email.com,In store
+C2753,Bobby Garner,b.garner81@email.com,App
+C2754,Mark Bryant,m.bryant45@email.com,Online
+C2755,Donald Cox,d.cox48@email.com,App
+C2756,Dalton Harmon,d.harmon50@email.com,In store
+C2757,Michael Warner,m.warner14@email.com,In store
+C2758,Kathy Compton,k.compton15@email.com,Online
+C2759,Justin Blanchard,j.blanchard25@email.com,Online
+C2760,Tara Sparks,t.sparks28@email.com,App
+C2761,Rachael King,r.king46@email.com,App
+C2762,Kimberly Gibson,k.gibson78@email.com,In store
+C2763,Luis Cooper,l.cooper94@email.com,App
+C2764,Johnny Lopez,j.lopez51@email.com,In store
+C2765,Joseph Moran,j.moran65@email.com,App
+C2766,John Vaughn,j.vaughn94@email.com,In store
+C2767,Frank Colon,f.colon59@email.com,In store
+C2768,Russell Lee,r.lee83@email.com,App
+C2769,Amanda Burke,a.burke42@email.com,Online
+C2770,Tamara Nelson,t.nelson26@email.com,In store
+C2771,James Howard,j.howard11@email.com,App
+C2772,Kevin Mason,k.mason53@email.com,Online
+C2773,Michelle Wallace,m.wallace80@email.com,Online
+C2774,David Baker,d.baker59@email.com,App
+C2775,Jennifer Fuller,j.fuller76@email.com,App
+C2776,Michael Guzman,m.guzman42@email.com,In store
+C2777,Tina Martinez,t.martinez34@email.com,In store
+C2778,Nicole Boyd,n.boyd45@email.com,App
+C2779,Anthony Berry,a.berry28@email.com,In store
+C2780,Jessica King,j.king92@email.com,In store
+C2781,Gregory Glover,g.glover27@email.com,App
+C2782,Theresa Boone,t.boone40@email.com,App
+C2783,Robert Faulkner,r.faulkner76@email.com,Online
+C2784,Cory Mathis,c.mathis61@email.com,Online
+C2785,Courtney Santana,c.santana17@email.com,Online
+C2786,Joseph Cohen,j.cohen62@email.com,Online
+C2787,Stacey King,s.king21@email.com,Online
+C2788,Johnny Williams,j.williams73@email.com,In store
+C2789,Sean Galloway,s.galloway11@email.com,In store
+C2790,Harold Carter,h.carter61@email.com,App
+C2791,Adam Baker,a.baker88@email.com,Online
+C2792,Cynthia Anderson,c.anderson36@email.com,Online
+C2793,William Reid,w.reid34@email.com,In store
+C2794,Jane Campbell,j.campbell74@email.com,App
+C2795,Tammy Reid,t.reid49@email.com,In store
+C2796,Daniel Patrick,d.patrick37@email.com,In store
+C2797,Derek Howard,d.howard81@email.com,Online
+C2798,Christopher Wilson,c.wilson61@email.com,Online
+C2799,Kimberly Joseph,k.joseph15@email.com,Online
+C2800,Kathryn Santana,k.santana46@email.com,Online
+C2801,Melissa Austin,m.austin73@email.com,App
+C2802,Nicholas Small,n.small44@email.com,Online
+C2803,Alex Cameron,a.cameron26@email.com,Online
+C2804,Jennifer Gonzales,j.gonzales97@email.com,Online
+C2805,Robert Mitchell,r.mitchell60@email.com,In store
+C2806,Cole Shelton,c.shelton61@email.com,In store
+C2807,Edward Abbott,e.abbott73@email.com,In store
+C2808,Sabrina Nguyen,s.nguyen26@email.com,Online
+C2809,Kimberly Lewis,k.lewis58@email.com,Online
+C2810,Micheal Howard,m.howard16@email.com,In store
+C2811,Erin Rodriguez,e.rodriguez74@email.com,App
+C2812,Emily Miller,e.miller71@email.com,App
+C2813,Mallory Sullivan,m.sullivan19@email.com,App
+C2814,Brett Pham,b.pham34@email.com,In store
+C2815,Debra Alvarez,d.alvarez74@email.com,App
+C2816,Ashley Scott,a.scott12@email.com,App
+C2817,Jesse Murphy,j.murphy57@email.com,In store
+C2818,Billy Rice,b.rice80@email.com,App
+C2819,Isaac Tran,i.tran69@email.com,Online
+C2820,Gregory Randall,g.randall96@email.com,In store
+C2821,Juan Sloan,j.sloan23@email.com,In store
+C2822,Olivia Sutton,o.sutton94@email.com,In store
+C2823,Patricia Gill,p.gill11@email.com,Online
+C2824,Joel Aguilar,j.aguilar46@email.com,App
+C2825,Diana Webb,d.webb43@email.com,In store
+C2826,Betty Patterson,b.patterson96@email.com,In store
+C2827,Matthew Austin,m.austin49@email.com,Online
+C2828,Troy Smith,t.smith35@email.com,App
+C2829,Yolanda Jackson,y.jackson31@email.com,In store
+C2830,Ryan White,r.white34@email.com,App
+C2831,Robert Lopez,r.lopez24@email.com,In store
+C2832,Regina Clark,r.clark30@email.com,In store
+C2833,Kara Carter,k.carter49@email.com,App
+C2834,Michelle Lin,m.lin95@email.com,In store
+C2835,Edward Smith,e.smith23@email.com,App
+C2836,Louis Burns,l.burns85@email.com,App
+C2837,Angela Johnson,a.johnson95@email.com,App
+C2838,Jessica Higgins,j.higgins27@email.com,In store
+C2839,Steven Graham,s.graham32@email.com,Online
+C2840,Natalie Woods,n.woods75@email.com,Online
+C2841,Michelle Bright,m.bright31@email.com,App
+C2842,Joseph Wolf,j.wolf47@email.com,In store
+C2843,Robert Stevens,r.stevens51@email.com,App
+C2844,Katherine Hudson,k.hudson26@email.com,App
+C2845,Angela Kim,a.kim91@email.com,App
+C2846,Shannon Day,s.day11@email.com,App
+C2847,William Cruz,w.cruz88@email.com,App
+C2848,Cody Wallace,c.wallace59@email.com,App
+C2849,Wendy Murray,w.murray27@email.com,In store
+C2850,Jason Monroe,j.monroe47@email.com,Online
+C2851,Diane Webster,d.webster44@email.com,In store
+C2852,Sheila Franklin,s.franklin90@email.com,Online
+C2853,Anthony Bowen,a.bowen27@email.com,App
+C2854,Richard Jackson,r.jackson44@email.com,In store
+C2855,Mikayla Clayton,m.clayton53@email.com,In store
+C2856,Jasmine Young,j.young63@email.com,In store
+C2857,Julia Bryant,j.bryant34@email.com,In store
+C2858,Ruben Mcintyre,r.mcintyre24@email.com,App
+C2859,Heather Nelson,h.nelson12@email.com,In store
+C2860,Jillian Nguyen,j.nguyen54@email.com,App
+C2861,Courtney Elliott,c.elliott51@email.com,App
+C2862,Shelly Watson,s.watson29@email.com,In store
+C2863,Penny Yang,p.yang96@email.com,App
+C2864,Stephen Hodge,s.hodge27@email.com,App
+C2865,David Williamson,d.williamson38@email.com,Online
+C2866,Kim Jackson,k.jackson88@email.com,App
+C2867,Lorraine Reese,l.reese21@email.com,In store
+C2868,Susan Osborne,s.osborne62@email.com,Online
+C2869,Stephanie Burke,s.burke17@email.com,Online
+C2870,Roger Moss,r.moss33@email.com,In store
+C2871,Roger Ryan,r.ryan70@email.com,In store
+C2872,Melissa Miller,m.miller98@email.com,Online
+C2873,Megan Davis,m.davis87@email.com,Online
+C2874,Michael Michael,m.michael54@email.com,In store
+C2875,Nicholas Farley,n.farley10@email.com,In store
+C2876,Michael Murphy,m.murphy33@email.com,App
+C2877,Jonathon Howard,j.howard91@email.com,Online
+C2878,Renee Lowery,r.lowery57@email.com,App
+C2879,Krista Cunningham,k.cunningham27@email.com,In store
+C2880,Austin Taylor,a.taylor61@email.com,Online
+C2881,James Juarez,j.juarez45@email.com,In store
+C2882,Summer Spears,s.spears97@email.com,App
+C2883,Troy Burton,t.burton79@email.com,In store
+C2884,Gerald Stone,g.stone81@email.com,Online
+C2885,Katherine Patton,k.patton83@email.com,Online
+C2886,Gary Williamson,g.williamson35@email.com,App
+C2887,Kenneth Love,k.love61@email.com,In store
+C2888,Tina Burns,t.burns44@email.com,Online
+C2889,Jessica Booth,j.booth19@email.com,In store
+C2890,Veronica Jacobson,v.jacobson36@email.com,App
+C2891,Sandra Nguyen,s.nguyen66@email.com,Online
+C2892,Jason Sherman,j.sherman63@email.com,App
+C2893,Jeffery Jarvis,j.jarvis46@email.com,In store
+C2894,Javier Perkins,j.perkins27@email.com,In store
+C2895,Tina Santana,t.santana53@email.com,App
+C2896,Jason Smith,j.smith93@email.com,In store
+C2897,Ernest Pena,e.pena38@email.com,App
+C2898,Susan Shah,s.shah24@email.com,Online
+C2899,Anthony White,a.white96@email.com,App
+C2900,Courtney Bentley,c.bentley97@email.com,Online
+C2901,Ralph Gonzalez,r.gonzalez46@email.com,App
+C2902,Amy Bryant,a.bryant63@email.com,App
+C2903,James Turner,j.turner68@email.com,In store
+C2904,Lisa Butler,l.butler64@email.com,App
+C2905,Jasmine Molina,j.molina61@email.com,App
+C2906,Nicole Gamble,n.gamble86@email.com,App
+C2907,Elizabeth Perez,e.perez65@email.com,Online
+C2908,Charles Reeves,c.reeves45@email.com,Online
+C2909,George Jimenez,g.jimenez49@email.com,In store
+C2910,Alexandra Morgan,a.morgan66@email.com,App
+C2911,Jennifer Cummings,j.cummings87@email.com,Online
+C2912,Thomas Stevenson,t.stevenson29@email.com,App
+C2913,Wanda Poole,w.poole16@email.com,Online
+C2914,Julie Henderson,j.henderson71@email.com,In store
+C2915,James Jordan,j.jordan11@email.com,Online
+C2916,Joseph Harris,j.harris86@email.com,Online
+C2917,Sara Hunter,s.hunter47@email.com,App
+C2918,Edward Meyer,e.meyer10@email.com,App
+C2919,Michele Harris,m.harris22@email.com,In store
+C2920,Emily Meyers,e.meyers73@email.com,App
+C2921,Katie Myers,k.myers40@email.com,App
+C2922,Jason Jones,j.jones23@email.com,In store
+C2923,Cody Jones,c.jones95@email.com,In store
+C2924,Mary Moore,m.moore63@email.com,In store
+C2925,Lucas Rodriguez,l.rodriguez46@email.com,In store
+C2926,Michael Gonzalez,m.gonzalez12@email.com,In store
+C2927,Eric Davis,e.davis86@email.com,App
+C2928,Debra Burton,d.burton51@email.com,App
+C2929,Elizabeth Gray,e.gray47@email.com,In store
+C2930,William Oconnell,w.oconnell22@email.com,Online
+C2931,Jeffrey Jimenez,j.jimenez27@email.com,Online
+C2932,Thomas Frederick,t.frederick21@email.com,Online
+C2933,David Williams,d.williams56@email.com,Online
+C2934,Bradley Lewis,b.lewis92@email.com,App
+C2935,Michael Galloway,m.galloway19@email.com,In store
+C2936,Barbara Wheeler,b.wheeler66@email.com,App
+C2937,Jesse Bullock,j.bullock20@email.com,In store
+C2938,Christopher Cameron,c.cameron13@email.com,In store
+C2939,David Green,d.green94@email.com,Online
+C2940,Janice Moore,j.moore19@email.com,App
+C2941,Wendy Hill,w.hill14@email.com,In store
+C2942,Pamela Young,p.young85@email.com,In store
+C2943,Theresa Lewis,t.lewis39@email.com,In store
+C2944,Diane May,d.may42@email.com,In store
+C2945,Kenneth Nguyen,k.nguyen91@email.com,App
+C2946,Lisa Vargas,l.vargas32@email.com,Online
+C2947,Joanna Evans,j.evans79@email.com,App
+C2948,Joshua Anderson,j.anderson28@email.com,Online
+C2949,Anthony Dixon,a.dixon24@email.com,In store
+C2950,Charles Paul,c.paul95@email.com,App
+C2951,Darren Mosley,d.mosley68@email.com,Online
+C2952,James Adkins,j.adkins79@email.com,In store
+C2953,Alexander Gibson,a.gibson15@email.com,Online
+C2954,Alec Kaiser,a.kaiser98@email.com,App
+C2955,Nicole Hess,n.hess79@email.com,App
+C2956,Carol White,c.white66@email.com,Online
+C2957,Erica Gomez,e.gomez70@email.com,App
+C2958,Samuel Gilbert,s.gilbert65@email.com,In store
+C2959,Daniel Jackson,d.jackson23@email.com,App
+C2960,Timothy Douglas,t.douglas92@email.com,App
+C2961,Angela Moses,a.moses16@email.com,Online
+C2962,Craig Cox,c.cox91@email.com,Online
+C2963,David Oliver,d.oliver70@email.com,In store
+C2964,Erica Freeman,e.freeman64@email.com,App
+C2965,Deanna Orozco,d.orozco83@email.com,In store
+C2966,Stephen Carrillo,s.carrillo92@email.com,App
+C2967,Kim Gould,k.gould37@email.com,Online
+C2968,April Young,a.young58@email.com,App
+C2969,Angelica Day,a.day76@email.com,App
+C2970,Michael Duffy,m.duffy36@email.com,In store
+C2971,Gary Chapman,g.chapman90@email.com,App
+C2972,James Williams,j.williams48@email.com,Online
+C2973,Heather Elliott,h.elliott93@email.com,App
+C2974,Karen Ross,k.ross44@email.com,Online
+C2975,Crystal Taylor,c.taylor56@email.com,In store
+C2976,Mary Ballard,m.ballard75@email.com,In store
+C2977,Adrian Donovan,a.donovan59@email.com,In store
+C2978,Mark Payne,m.payne29@email.com,App
+C2979,Barry Rodgers,b.rodgers45@email.com,App
+C2980,Eric Schmidt,e.schmidt79@email.com,In store
+C2981,Marcus Smith,m.smith93@email.com,App
+C2982,Katie Alexander,k.alexander29@email.com,In store
+C2983,Mary Schmidt,m.schmidt49@email.com,Online
+C2984,Christopher Hodges,c.hodges59@email.com,Online
+C2985,Bryan Acosta,b.acosta76@email.com,In store
+C2986,Lee Kennedy,l.kennedy44@email.com,In store
+C2987,Brandon Wall,b.wall54@email.com,In store
+C2988,Victoria Morrison,v.morrison47@email.com,Online
+C2989,Eric Browning,e.browning96@email.com,In store
+C2990,Emily Hines,e.hines94@email.com,App
+C2991,Amy Arnold,a.arnold74@email.com,In store
+C2992,Madison Henderson,m.henderson12@email.com,App
+C2993,Peter Faulkner,p.faulkner39@email.com,App
+C2994,Valerie Davis,v.davis25@email.com,In store
+C2995,Lisa Bell,l.bell79@email.com,Online
+C2996,Michael Nicholson,m.nicholson83@email.com,App
+C2997,Brittany Jackson,b.jackson58@email.com,App
+C2998,Dennis Garcia,d.garcia55@email.com,Online
+C2999,Mary Perez,m.perez34@email.com,App
+C3000,Leah Morales,l.morales64@email.com,Online
